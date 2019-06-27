@@ -1,0 +1,3314 @@
+ANNO,CODICE_ATENEO,NOME_ATENEO,CITTA ,LATITUDINE (°) ,LATITUDINE (') ,LATITUDINE ('') ,LONGITUDINE (°) ,LONGITUDINE ('),LONGITUDINE (''),Sesso,LAUREATI
+1999,101,Torino,Torino,45,3,58,7,40,56,M,2521
+1999,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,1930
+1999,103,Torino ISEF,Torino,45,3,58,7,40,56,M,47
+1999,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,274
+1999,1001,Genova,Genova,44,24,17,8,56,8,M,1912
+1999,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,243
+1999,1202,Insubria,Como,45,48,25,9,5,17,M,235
+1999,1501,Milano,Milano,45,27,57,9,11,24,M,2789
+1999,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,3824
+1999,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,1085
+1999,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,1585
+1999,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,139
+1999,1506,Milano ISEF,Milano ,45,27,57,9,11,24,M,25
+1999,1507,Milano ISEF Lombardia,Milano ,45,27,57,9,11,24,M,54
+1999,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,227
+1999,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,297
+1999,1701,Brescia,Brescia,45,32,27,10,13,14,M,600
+1999,1801,Pavia,Pavia,45,11,13,9,9,17,M,1211
+1999,2201,Trento,Trento,46,4,7,11,7,22,M,806
+1999,2301,Verona,Verona,45,26,40,10,59,56,M,482
+1999,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1038
+1999,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,625
+1999,2801,Padova,Padova,45,24,33,11,52,23,M,2933
+1999,3001,Udine,Udine,46,3,57,13,14,15,M,493
+1999,3201,Trieste,Trieste,45,38,58,13,46,20,M,918
+1999,3401,Parma,Parma,44,48,6,10,19,44,M,1377
+1999,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,821
+1999,3701,Bologna,Bologna,44,29,44,11,20,48,M,4170
+1999,3702,Bologna ISEF,Bologna,44,29,44,11,20,48,M,85
+1999,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,519
+1999,4101,Urbino,Urbino,43,43,36,12,38,11,M,764
+1999,4102,Urbino ISEF,Urbino,43,43,36,12,38,11,M,91
+1999,4201,Marche,Ancona,43,37,15,13,30,51,M,671
+1999,4301,Macerata,Macerata,43,18,6,13,27,6,M,205
+1999,4302,Camerino,Camerino,43,8,13,13,4,9,M,309
+1999,4801,Firenze,Firenze,43,46,28,11,15,29,M,2255
+1999,4802,Firenze ISEF,Firenze,43,46,28,11,15,29,M,54
+1999,5001,Pisa,Pisa,43,42,51,10,24,1,M,1902
+1999,5201,Siena,Siena,43,19,11,11,19,59,M,1016
+1999,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,0
+1999,5401,Perugia,Perugia,43,6,49,12,23,23,M,1087
+1999,5402,Perugia ISEF,Perugia,43,6,49,12,23,23,M,12
+1999,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,17
+1999,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,152
+1999,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,6218
+1999,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,872
+1999,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,68
+1999,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,47
+1999,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,335
+1999,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,296
+1999,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,14
+1999,6001,Cassino,Cassino,41,29,38,13,49,44,M,249
+1999,6201,Sannio,Benevento ,41,7,55,14,46,40,M,73
+1999,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,3745
+1999,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,315
+1999,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,140
+1999,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,42
+1999,6305,Napoli ISEF,Napoli ,40,51,14,14,15,2,M,257
+1999,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,491
+1999,6501,Salerno,Salerno,40,40,52,14,45,40,M,1160
+1999,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,440
+1999,6701,Teramo,Teramo,42,39,30,13,42,26,M,275
+1999,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,756
+1999,7001,Molise,Campobasso,41,33,36,14,39,37,M,165
+1999,7201,Bari,Bari,41,7,45,16,52,11,M,1965
+1999,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,477
+1999,7501,Salento,Lecce,40,21,10,18,10,27,M,440
+1999,7601,Basilicata,Potenza,40,38,20,15,48,12,M,91
+1999,7801,Calabria,Rende,39,20,0,16,10,56,M,593
+1999,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,106
+1999,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,238
+1999,8201,Palermo,Palermo,38,7,0,13,21,43,M,1778
+1999,8202,Palermo ISEF,Palermo,38,7,0,13,21,43,M,101
+1999,8301,Messina,Messina,38,11,36,15,33,14,M,1104
+1999,8701,Catania,Catania,37,30,21,15,5,15,M,1477
+1999,9001,Sassari,Sassari,40,43,45,8,33,38,M,378
+1999,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,835
+1999,101,Torino,Torino,45,3,58,7,40,56,F,3993
+1999,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,627
+1999,103,Torino ISEF,Torino,45,3,58,7,40,56,F,79
+1999,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,398
+1999,1001,Genova,Genova,44,24,17,8,56,8,F,2254
+1999,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,72
+1999,1202,Insubria,Como,45,48,25,9,5,17,F,312
+1999,1501,Milano,Milano,45,27,57,9,11,24,F,4414
+1999,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,1823
+1999,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,775
+1999,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,3271
+1999,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,770
+1999,1506,Milano ISEF,Milano ,45,27,57,9,11,24,F,58
+1999,1507,Milano ISEF Lombardia,Milano ,45,27,57,9,11,24,F,50
+1999,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,352
+1999,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,366
+1999,1701,Brescia,Brescia,45,32,27,10,13,14,F,549
+1999,1801,Pavia,Pavia,45,11,13,9,9,17,F,1484
+1999,2201,Trento,Trento,46,4,7,11,7,22,F,790
+1999,2301,Verona,Verona,45,26,40,10,59,56,F,981
+1999,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,1430
+1999,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,533
+1999,2801,Padova,Padova,45,24,33,11,52,23,F,3422
+1999,3001,Udine,Udine,46,3,57,13,14,15,F,543
+1999,3201,Trieste,Trieste,45,38,58,13,46,20,F,1211
+1999,3401,Parma,Parma,44,48,6,10,19,44,F,1711
+1999,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,825
+1999,3701,Bologna,Bologna,44,29,44,11,20,48,F,5362
+1999,3702,Bologna ISEF,Bologna,44,29,44,11,20,48,F,128
+1999,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,793
+1999,4101,Urbino,Urbino,43,43,36,12,38,11,F,1188
+1999,4102,Urbino ISEF,Urbino,43,43,36,12,38,11,F,67
+1999,4201,Marche,Ancona,43,37,15,13,30,51,F,489
+1999,4301,Macerata,Macerata,43,18,6,13,27,6,F,327
+1999,4302,Camerino,Camerino,43,8,13,13,4,9,F,244
+1999,4801,Firenze,Firenze,43,46,28,11,15,29,F,2979
+1999,4802,Firenze ISEF,Firenze,43,46,28,11,15,29,F,90
+1999,5001,Pisa,Pisa,43,42,51,10,24,1,F,2149
+1999,5201,Siena,Siena,43,19,11,11,19,59,F,1385
+1999,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,3
+1999,5401,Perugia,Perugia,43,6,49,12,23,23,F,1516
+1999,5402,Perugia ISEF,Perugia,43,6,49,12,23,23,F,25
+1999,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,34
+1999,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,270
+1999,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,8069
+1999,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,944
+1999,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,237
+1999,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,67
+1999,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,344
+1999,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,730
+1999,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,41
+1999,6001,Cassino,Cassino,41,29,38,13,49,44,F,456
+1999,6201,Sannio,Benevento ,41,7,55,14,46,40,F,64
+1999,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,3786
+1999,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,313
+1999,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,559
+1999,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,585
+1999,6305,Napoli ISEF,Napoli ,40,51,14,14,15,2,F,214
+1999,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,600
+1999,6501,Salerno,Salerno,40,40,52,14,45,40,F,1815
+1999,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,566
+1999,6701,Teramo,Teramo,42,39,30,13,42,26,F,407
+1999,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,1138
+1999,7001,Molise,Campobasso,41,33,36,14,39,37,F,219
+1999,7201,Bari,Bari,41,7,45,16,52,11,F,3245
+1999,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,124
+1999,7501,Salento,Lecce,40,21,10,18,10,27,F,954
+1999,7601,Basilicata,Potenza,40,38,20,15,48,12,F,175
+1999,7801,Calabria,Rende,39,20,0,16,10,56,F,907
+1999,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,206
+1999,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,145
+1999,8201,Palermo,Palermo,38,7,0,13,21,43,F,2208
+1999,8202,Palermo ISEF,Palermo,38,7,0,13,21,43,F,113
+1999,8301,Messina,Messina,38,11,36,15,33,14,F,1572
+1999,8701,Catania,Catania,37,30,21,15,5,15,F,1992
+1999,9001,Sassari,Sassari,40,43,45,8,33,38,F,699
+1999,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,1364
+2000,101,Torino,Torino,45,3,58,7,40,56,F,4295
+2000,101,Torino,Torino,45,3,58,7,40,56,M,2598
+2000,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,682
+2000,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,2022
+2000,103,Torino ISEF,Torino,45,3,58,7,40,56,F,116
+2000,103,Torino ISEF,Torino,45,3,58,7,40,56,M,100
+2000,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,464
+2000,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,271
+2000,1001,Genova,Genova,44,24,17,8,56,8,F,2364
+2000,1001,Genova,Genova,44,24,17,8,56,8,M,1957
+2000,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,136
+2000,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,275
+2000,1202,Insubria,Como,45,48,25,9,5,17,F,384
+2000,1202,Insubria,Como,45,48,25,9,5,17,M,265
+2000,1501,Milano,Milano,45,27,57,9,11,24,F,4241
+2000,1501,Milano,Milano,45,27,57,9,11,24,M,2697
+2000,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,1599
+2000,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,3776
+2000,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,785
+2000,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,1123
+2000,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,3374
+2000,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,1665
+2000,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,831
+2000,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,144
+2000,1506,Milano ISEF,Milano ,45,27,57,9,11,24,F,44
+2000,1506,Milano ISEF,Milano ,45,27,57,9,11,24,M,48
+2000,1507,Milano ISEF Lombardia,Milano ,45,27,57,9,11,24,F,100
+2000,1507,Milano ISEF Lombardia,Milano ,45,27,57,9,11,24,M,75
+2000,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,0
+2000,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,0
+2000,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,471
+2000,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,341
+2000,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,346
+2000,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,270
+2000,1701,Brescia,Brescia,45,32,27,10,13,14,F,641
+2000,1701,Brescia,Brescia,45,32,27,10,13,14,M,668
+2000,1801,Pavia,Pavia,45,11,13,9,9,17,F,1543
+2000,1801,Pavia,Pavia,45,11,13,9,9,17,M,1312
+2000,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,0
+2000,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,0
+2000,2201,Trento,Trento,46,4,7,11,7,22,F,859
+2000,2201,Trento,Trento,46,4,7,11,7,22,M,758
+2000,2301,Verona,Verona,45,26,40,10,59,56,F,1082
+2000,2301,Verona,Verona,45,26,40,10,59,56,M,563
+2000,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,1478
+2000,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,923
+2000,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,539
+2000,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,623
+2000,2801,Padova,Padova,45,24,33,11,52,23,F,3806
+2000,2801,Padova,Padova,45,24,33,11,52,23,M,2947
+2000,3001,Udine,Udine,46,3,57,13,14,15,F,668
+2000,3001,Udine,Udine,46,3,57,13,14,15,M,520
+2000,3201,Trieste,Trieste,45,38,58,13,46,20,F,2038
+2000,3201,Trieste,Trieste,45,38,58,13,46,20,M,910
+2000,3401,Parma,Parma,44,48,6,10,19,44,F,1755
+2000,3401,Parma,Parma,44,48,6,10,19,44,M,1564
+2000,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,905
+2000,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,948
+2000,3701,Bologna,Bologna,44,29,44,11,20,48,F,5480
+2000,3701,Bologna,Bologna,44,29,44,11,20,48,M,4545
+2000,3702,Bologna ISEF,Bologna,44,29,44,11,20,48,F,153
+2000,3702,Bologna ISEF,Bologna,44,29,44,11,20,48,M,157
+2000,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,852
+2000,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,618
+2000,4101,Urbino,Urbino,43,43,36,12,38,11,F,1400
+2000,4101,Urbino,Urbino,43,43,36,12,38,11,M,914
+2000,4102,Urbino ISEF,Urbino,43,43,36,12,38,11,F,71
+2000,4102,Urbino ISEF,Urbino,43,43,36,12,38,11,M,80
+2000,4201,Marche,Ancona,43,37,15,13,30,51,F,570
+2000,4201,Marche,Ancona,43,37,15,13,30,51,M,763
+2000,4301,Macerata,Macerata,43,18,6,13,27,6,F,560
+2000,4301,Macerata,Macerata,43,18,6,13,27,6,M,325
+2000,4302,Camerino,Camerino,43,8,13,13,4,9,F,300
+2000,4302,Camerino,Camerino,43,8,13,13,4,9,M,312
+2000,4801,Firenze,Firenze,43,46,28,11,15,29,F,3001
+2000,4801,Firenze,Firenze,43,46,28,11,15,29,M,2255
+2000,4802,Firenze ISEF,Firenze,43,46,28,11,15,29,F,86
+2000,4802,Firenze ISEF,Firenze,43,46,28,11,15,29,M,71
+2000,5001,Pisa,Pisa,43,42,51,10,24,1,F,2168
+2000,5001,Pisa,Pisa,43,42,51,10,24,1,M,2080
+2000,5201,Siena,Siena,43,19,11,11,19,59,F,1545
+2000,5201,Siena,Siena,43,19,11,11,19,59,M,1022
+2000,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,9
+2000,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,2
+2000,5401,Perugia,Perugia,43,6,49,12,23,23,F,1679
+2000,5401,Perugia,Perugia,43,6,49,12,23,23,M,1107
+2000,5402,Perugia ISEF,Perugia,43,6,49,12,23,23,F,43
+2000,5402,Perugia ISEF,Perugia,43,6,49,12,23,23,M,55
+2000,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,38
+2000,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,24
+2000,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,277
+2000,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,738
+2000,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,7855
+2000,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,5961
+2000,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,1029
+2000,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,924
+2000,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,300
+2000,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,108
+2000,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,366
+2000,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,356
+2000,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,87
+2000,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,75
+2000,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,864
+2000,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,604
+2000,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,38
+2000,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,20
+2000,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,0
+2000,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,0
+2000,6001,Cassino,Cassino,41,29,38,13,49,44,F,461
+2000,6001,Cassino,Cassino,41,29,38,13,49,44,M,273
+2000,6201,Sannio,Benevento ,41,7,55,14,46,40,F,126
+2000,6201,Sannio,Benevento ,41,7,55,14,46,40,M,120
+2000,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,3833
+2000,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,3874
+2000,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,314
+2000,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,329
+2000,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,541
+2000,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,139
+2000,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,485
+2000,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,41
+2000,6305,Napoli ISEF,Napoli ,40,51,14,14,15,2,F,279
+2000,6305,Napoli ISEF,Napoli ,40,51,14,14,15,2,M,327
+2000,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,788
+2000,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,671
+2000,6501,Salerno,Salerno,40,40,52,14,45,40,F,1773
+2000,6501,Salerno,Salerno,40,40,52,14,45,40,M,1196
+2000,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,589
+2000,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,461
+2000,6701,Teramo,Teramo,42,39,30,13,42,26,F,408
+2000,6701,Teramo,Teramo,42,39,30,13,42,26,M,267
+2000,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,1210
+2000,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,652
+2000,7001,Molise,Campobasso,41,33,36,14,39,37,F,236
+2000,7001,Molise,Campobasso,41,33,36,14,39,37,M,183
+2000,7101,Foggia,Foggia,41,27,54,15,32,42,F,381
+2000,7101,Foggia,Foggia,41,27,54,15,32,42,M,229
+2000,7201,Bari,Bari,41,7,45,16,52,11,F,3343
+2000,7201,Bari,Bari,41,7,45,16,52,11,M,1994
+2000,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,192
+2000,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,494
+2000,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,0
+2000,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,0
+2000,7501,Salento,Lecce,40,21,10,18,10,27,F,1007
+2000,7501,Salento,Lecce,40,21,10,18,10,27,M,454
+2000,7601,Basilicata,Potenza,40,38,20,15,48,12,F,150
+2000,7601,Basilicata,Potenza,40,38,20,15,48,12,M,133
+2000,7801,Calabria,Rende,39,20,0,16,10,56,F,989
+2000,7801,Calabria,Rende,39,20,0,16,10,56,M,680
+2000,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,263
+2000,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,163
+2000,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,179
+2000,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,314
+2000,8201,Palermo,Palermo,38,7,0,13,21,43,F,2155
+2000,8201,Palermo,Palermo,38,7,0,13,21,43,M,1800
+2000,8202,Palermo ISEF,Palermo,38,7,0,13,21,43,F,129
+2000,8202,Palermo ISEF,Palermo,38,7,0,13,21,43,M,112
+2000,8301,Messina,Messina,38,11,36,15,33,14,F,1537
+2000,8301,Messina,Messina,38,11,36,15,33,14,M,1110
+2000,8701,Catania,Catania,37,30,21,15,5,15,F,1905
+2000,8701,Catania,Catania,37,30,21,15,5,15,M,1503
+2000,9001,Sassari,Sassari,40,43,45,8,33,38,F,825
+2000,9001,Sassari,Sassari,40,43,45,8,33,38,M,440
+2000,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,1616
+2000,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1015
+2001,101,Torino,Torino,45,3,58,7,40,56,M,2949
+2001,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,1971
+2001,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,347
+2001,701,Aosta,Aosta,45,44,18,7,19,14,M,0
+2001,1001,Genova,Genova,44,24,17,8,56,8,M,1985
+2001,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,277
+2001,1202,Insubria,Como,45,48,25,9,5,17,M,265
+2001,1501,Milano,Milano,45,27,57,9,11,24,M,2837
+2001,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,3505
+2001,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,1287
+2001,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,1684
+2001,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,131
+2001,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,14
+2001,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,382
+2001,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,279
+2001,1701,Brescia,Brescia,45,32,27,10,13,14,M,653
+2001,1801,Pavia,Pavia,45,11,13,9,9,17,M,1244
+2001,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,3
+2001,2201,Trento,Trento,46,4,7,11,7,22,M,759
+2001,2301,Verona,Verona,45,26,40,10,59,56,M,544
+2001,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,779
+2001,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,614
+2001,2801,Padova,Padova,45,24,33,11,52,23,M,3201
+2001,3001,Udine,Udine,46,3,57,13,14,15,M,482
+2001,3201,Trieste,Trieste,45,38,58,13,46,20,M,971
+2001,3401,Parma,Parma,44,48,6,10,19,44,M,1530
+2001,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1016
+2001,3701,Bologna,Bologna,44,29,44,11,20,48,M,5191
+2001,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,681
+2001,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1127
+2001,4201,Marche,Ancona,43,37,15,13,30,51,M,860
+2001,4301,Macerata,Macerata,43,18,6,13,27,6,M,350
+2001,4302,Camerino,Camerino,43,8,13,13,4,9,M,407
+2001,4801,Firenze,Firenze,43,46,28,11,15,29,M,2217
+2001,5001,Pisa,Pisa,43,42,51,10,24,1,M,2177
+2001,5201,Siena,Siena,43,19,11,11,19,59,M,922
+2001,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,3
+2001,5401,Perugia,Perugia,43,6,49,12,23,23,M,1247
+2001,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,30
+2001,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,233
+2001,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,5835
+2001,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,1211
+2001,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,144
+2001,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,428
+2001,5806,Roma IUSM,Roma ,41,54,27,12,29,24,M,260
+2001,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,811
+2001,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,25
+2001,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,9
+2001,6001,Cassino,Cassino,41,29,38,13,49,44,M,250
+2001,6201,Sannio,Benevento ,41,7,55,14,46,40,M,116
+2001,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,4197
+2001,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,431
+2001,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,166
+2001,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,56
+2001,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,661
+2001,6501,Salerno,Salerno,40,40,52,14,45,40,M,1408
+2001,6601,L’Aquila,Como,45,48,25,9,5,17,M,531
+2001,6701,Teramo,Teramo,42,39,30,13,42,26,M,330
+2001,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,762
+2001,7001,Molise,Campobasso,41,33,36,14,39,37,M,229
+2001,7101,Foggia,Foggia,41,27,54,15,32,42,M,291
+2001,7201,Bari,Bari,41,7,45,16,52,11,M,2129
+2001,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,629
+2001,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,0
+2001,7501,Lecce,L'Aquila,42,21,9,13,23,57,M,562
+2001,7601,Basilicata,Potenza,40,38,20,15,48,12,M,167
+2001,7801,Calabria,Rende,39,20,0,16,10,56,M,798
+2001,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,180
+2001,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,267
+2001,8201,Palermo,Palermo,38,7,0,13,21,43,M,2020
+2001,8301,Messina,Messina,38,11,36,15,33,14,M,1132
+2001,8701,Catania,Catania,37,30,21,15,5,15,M,1663
+2001,9001,Sassari,Sassari,40,43,45,8,33,38,M,508
+2001,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1263
+2001,101,Torino,Torino,45,3,58,7,40,56,F,4893
+2001,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,668
+2001,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,582
+2001,701,Aosta,Aosta,45,44,18,7,19,14,F,0
+2001,1001,Genova,Genova,44,24,17,8,56,8,F,2418
+2001,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,124
+2001,1202,Insubria,Como,45,48,25,9,5,17,F,400
+2001,1501,Milano,Milano,45,27,57,9,11,24,F,4251
+2001,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,1542
+2001,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,857
+2001,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,3695
+2001,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,769
+2001,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,46
+2001,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,624
+2001,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,392
+2001,1701,Brescia,Brescia,45,32,27,10,13,14,F,652
+2001,1801,Pavia,Pavia,45,11,13,9,9,17,F,1515
+2001,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,16
+2001,2201,Trento,Trento,46,4,7,11,7,22,F,873
+2001,2301,Verona,Verona,45,26,40,10,59,56,F,1248
+2001,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,1365
+2001,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,536
+2001,2801,Padova,Padova,45,24,33,11,52,23,F,4296
+2001,3001,Udine,Udine,46,3,57,13,14,15,F,671
+2001,3201,Trieste,Trieste,45,38,58,13,46,20,F,2272
+2001,3401,Parma,Parma,44,48,6,10,19,44,F,1800
+2001,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,871
+2001,3701,Bologna,Bologna,44,29,44,11,20,48,F,5898
+2001,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,874
+2001,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,1859
+2001,4201,Marche,Ancona,43,37,15,13,30,51,F,644
+2001,4301,Macerata,Macerata,43,18,6,13,27,6,F,671
+2001,4302,Camerino,Camerino,43,8,13,13,4,9,F,334
+2001,4801,Firenze,Firenze,43,46,28,11,15,29,F,3178
+2001,5001,Pisa,Pisa,43,42,51,10,24,1,F,2353
+2001,5201,Siena,Siena,43,19,11,11,19,59,F,1501
+2001,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,12
+2001,5401,Perugia,Perugia,43,6,49,12,23,23,F,1899
+2001,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,52
+2001,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,386
+2001,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,7948
+2001,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,933
+2001,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,459
+2001,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,416
+2001,5806,Roma IUSM,Roma ,41,54,27,12,29,24,F,281
+2001,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,1196
+2001,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,38
+2001,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,10
+2001,6001,Cassino,Cassino,41,29,38,13,49,44,F,522
+2001,6201,Sannio,Benevento ,41,7,55,14,46,40,F,145
+2001,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,4232
+2001,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,380
+2001,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,670
+2001,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,627
+2001,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,761
+2001,6501,Salerno,Salerno,40,40,52,14,45,40,F,2028
+2001,6601,L’Aquila,Como,45,48,25,9,5,17,F,643
+2001,6701,Teramo,Teramo,42,39,30,13,42,26,F,447
+2001,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,1353
+2001,7001,Molise,Campobasso,41,33,36,14,39,37,F,286
+2001,7101,Foggia,Foggia,41,27,54,15,32,42,F,379
+2001,7201,Bari,Bari,41,7,45,16,52,11,F,3810
+2001,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,168
+2001,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,0
+2001,7501,Lecce,L'Aquila,42,21,9,13,23,57,F,1137
+2001,7601,Basilicata,Potenza,40,38,20,15,48,12,F,231
+2001,7801,Calabria,Rende,39,20,0,16,10,56,F,1077
+2001,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,362
+2001,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,225
+2001,8201,Palermo,Palermo,38,7,0,13,21,43,F,2519
+2001,8301,Messina,Messina,38,11,36,15,33,14,F,1735
+2001,8701,Catania,Catania,37,30,21,15,5,15,F,2183
+2001,9001,Sassari,Sassari,40,43,45,8,33,38,F,922
+2001,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2023
+2002,101,Torino,Torino,45,3,58,7,40,56,M,3414
+2002,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,2353
+2002,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,370
+2002,701,Aosta,Aosta,45,44,18,7,19,14,M,0
+2002,1001,Genova,Genova,44,24,17,8,56,8,M,2098
+2002,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,386
+2002,1202,Insubria,Como,45,48,25,9,5,17,M,318
+2002,1501,Milano,Milano,45,27,57,9,11,24,M,2919
+2002,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,3650
+2002,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,1318
+2002,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,1882
+2002,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,218
+2002,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,42
+2002,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,630
+2002,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,361
+2002,1701,Brescia,Brescia,45,32,27,10,13,14,M,844
+2002,1801,Pavia,Pavia,45,11,13,9,9,17,M,1327
+2002,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,41
+2002,2201,Trento,Trento,46,4,7,11,7,22,M,1101
+2002,2301,Verona,Verona,45,26,40,10,59,56,M,776
+2002,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1143
+2002,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,755
+2002,2801,Padova,Padova,45,24,33,11,52,23,M,3555
+2002,3001,Udine,Udine,46,3,57,13,14,15,M,701
+2002,3201,Trieste,Trieste,45,38,58,13,46,20,M,1063
+2002,3401,Parma,Parma,44,48,6,10,19,44,M,1529
+2002,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1162
+2002,3701,Bologna,Bologna,44,29,44,11,20,48,M,5721
+2002,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,780
+2002,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1026
+2002,4201,Marche,Ancona,43,37,15,13,30,51,M,1086
+2002,4301,Macerata,Macerata,43,18,6,13,27,6,M,369
+2002,4302,Camerino,Camerino,43,8,13,13,4,9,M,419
+2002,4801,Firenze,Firenze,43,46,28,11,15,29,M,2779
+2002,5001,Pisa,Pisa,43,42,51,10,24,1,M,4436
+2002,5201,Siena,Siena,43,19,11,11,19,59,M,1112
+2002,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,1
+2002,5401,Perugia,Perugia,43,6,49,12,23,23,M,1434
+2002,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,38
+2002,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,618
+2002,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,6347
+2002,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2065
+2002,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,167
+2002,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,410
+2002,5806,Roma IUSM,Roma ,41,54,27,12,29,24,M,232
+2002,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,1056
+2002,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,29
+2002,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,21
+2002,6001,Cassino,Cassino,41,29,38,13,49,44,M,456
+2002,6201,Sannio,Benevento ,41,7,55,14,46,40,M,153
+2002,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,4407
+2002,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,488
+2002,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,169
+2002,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,86
+2002,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,979
+2002,6501,Salerno,Salerno,40,40,52,14,45,40,M,1610
+2002,6601,L’Aquila,Como,45,48,25,9,5,17,M,649
+2002,6701,Teramo,Teramo,42,39,30,13,42,26,M,362
+2002,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1150
+2002,7001,Molise,Campobasso,41,33,36,14,39,37,M,290
+2002,7101,Foggia,Foggia,41,27,54,15,32,42,M,292
+2002,7201,Bari,Bari,41,7,45,16,52,11,M,2311
+2002,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,832
+2002,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,2
+2002,7501,Lecce,L'Aquila,42,21,9,13,23,57,M,639
+2002,7601,Basilicata,Potenza,40,38,20,15,48,12,M,217
+2002,7801,Calabria,Rende,39,20,0,16,10,56,M,975
+2002,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,334
+2002,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,369
+2002,8201,Palermo,Palermo,38,7,0,13,21,43,M,2214
+2002,8301,Messina,Messina,38,11,36,15,33,14,M,1218
+2002,8701,Catania,Catania,37,30,21,15,5,15,M,1759
+2002,9001,Sassari,Sassari,40,43,45,8,33,38,M,520
+2002,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1462
+2002,101,Torino,Torino,45,3,58,7,40,56,F,5610
+2002,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,783
+2002,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,669
+2002,701,Aosta,Aosta,45,44,18,7,19,14,F,0
+2002,1001,Genova,Genova,44,24,17,8,56,8,F,2509
+2002,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,127
+2002,1202,Insubria,Como,45,48,25,9,5,17,F,487
+2002,1501,Milano,Milano,45,27,57,9,11,24,F,4217
+2002,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,1558
+2002,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,892
+2002,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,4107
+2002,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,1010
+2002,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,90
+2002,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,809
+2002,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,467
+2002,1701,Brescia,Brescia,45,32,27,10,13,14,F,698
+2002,1801,Pavia,Pavia,45,11,13,9,9,17,F,1710
+2002,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,85
+2002,2201,Trento,Trento,46,4,7,11,7,22,F,1026
+2002,2301,Verona,Verona,45,26,40,10,59,56,F,1800
+2002,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2007
+2002,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,686
+2002,2801,Padova,Padova,45,24,33,11,52,23,F,5503
+2002,3001,Udine,Udine,46,3,57,13,14,15,F,847
+2002,3201,Trieste,Trieste,45,38,58,13,46,20,F,2243
+2002,3401,Parma,Parma,44,48,6,10,19,44,F,1999
+2002,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1004
+2002,3701,Bologna,Bologna,44,29,44,11,20,48,F,6963
+2002,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1041
+2002,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,1839
+2002,4201,Marche,Ancona,43,37,15,13,30,51,F,884
+2002,4301,Macerata,Macerata,43,18,6,13,27,6,F,716
+2002,4302,Camerino,Camerino,43,8,13,13,4,9,F,349
+2002,4801,Firenze,Firenze,43,46,28,11,15,29,F,3769
+2002,5001,Pisa,Pisa,43,42,51,10,24,1,F,2812
+2002,5201,Siena,Siena,43,19,11,11,19,59,F,1601
+2002,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,12
+2002,5401,Perugia,Perugia,43,6,49,12,23,23,F,2037
+2002,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,100
+2002,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,407
+2002,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,8603
+2002,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,1979
+2002,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,569
+2002,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,416
+2002,5806,Roma IUSM,Roma ,41,54,27,12,29,24,F,303
+2002,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,1638
+2002,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,56
+2002,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,24
+2002,6001,Cassino,Cassino,41,29,38,13,49,44,F,706
+2002,6201,Sannio,Benevento ,41,7,55,14,46,40,F,169
+2002,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,4621
+2002,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,415
+2002,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,676
+2002,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,738
+2002,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,1153
+2002,6501,Salerno,Salerno,40,40,52,14,45,40,F,2269
+2002,6601,L’Aquila,Como,45,48,25,9,5,17,F,964
+2002,6701,Teramo,Teramo,42,39,30,13,42,26,F,544
+2002,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,2185
+2002,7001,Molise,Campobasso,41,33,36,14,39,37,F,360
+2002,7101,Foggia,Foggia,41,27,54,15,32,42,F,470
+2002,7201,Bari,Bari,41,7,45,16,52,11,F,4131
+2002,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,228
+2002,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,2
+2002,7501,Lecce,L'Aquila,42,21,9,13,23,57,F,1425
+2002,7601,Basilicata,Potenza,40,38,20,15,48,12,F,250
+2002,7801,Calabria,Rende,39,20,0,16,10,56,F,1432
+2002,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,459
+2002,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,280
+2002,8201,Palermo,Palermo,38,7,0,13,21,43,F,2836
+2002,8301,Messina,Messina,38,11,36,15,33,14,F,2000
+2002,8701,Catania,Catania,37,30,21,15,5,15,F,2615
+2002,9001,Sassari,Sassari,40,43,45,8,33,38,F,903
+2002,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2181
+2003,101,Torino,Torino,45,3,58,7,40,56,M,3558
+2003,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,2788
+2003,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,458
+2003,701,Aosta,Aosta,45,44,18,7,19,14,M,1
+2003,1001,Genova,Genova,44,24,17,8,56,8,M,2289
+2003,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,299
+2003,1202,Insubria,Como,45,48,25,9,5,17,M,412
+2003,1501,Milano,Milano,45,27,57,9,11,24,M,2893
+2003,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,5706
+2003,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,1425
+2003,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,1817
+2003,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,305
+2003,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,42
+2003,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,942
+2003,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,514
+2003,1701,Brescia,Brescia,45,32,27,10,13,14,M,941
+2003,1801,Pavia,Pavia,45,11,13,9,9,17,M,1859
+2003,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,47
+2003,2201,Trento,Trento,46,4,7,11,7,22,M,881
+2003,2301,Verona,Verona,45,26,40,10,59,56,M,879
+2003,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1144
+2003,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,788
+2003,2801,Padova,Padova,45,24,33,11,52,23,M,3960
+2003,3001,Udine,Udine,46,3,57,13,14,15,M,1180
+2003,3201,Trieste,Trieste,45,38,58,13,46,20,M,1334
+2003,3401,Parma,Parma,44,48,6,10,19,44,M,1629
+2003,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1219
+2003,3701,Bologna,Bologna,44,29,44,11,20,48,M,7129
+2003,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,856
+2003,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1078
+2003,4201,Marche,Ancona,43,37,15,13,30,51,M,1176
+2003,4301,Macerata,Macerata,43,18,6,13,27,6,M,383
+2003,4302,Camerino,Camerino,43,8,13,13,4,9,M,517
+2003,4801,Firenze,Firenze,43,46,28,11,15,29,M,2776
+2003,5001,Pisa,Pisa,43,42,51,10,24,1,M,3371
+2003,5201,Siena,Siena,43,19,11,11,19,59,M,1374
+2003,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,3
+2003,5401,Perugia,Perugia,43,6,49,12,23,23,M,1590
+2003,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,93
+2003,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,845
+2003,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7506
+2003,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,6862
+2003,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,233
+2003,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,440
+2003,5806,Roma IUSM,Roma ,41,54,27,12,29,24,M,76
+2003,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,1331
+2003,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,38
+2003,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,48
+2003,6001,Cassino,Cassino,41,29,38,13,49,44,M,520
+2003,6201,Sannio,Benevento ,41,7,55,14,46,40,M,193
+2003,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,4447
+2003,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,597
+2003,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,224
+2003,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,148
+2003,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1058
+2003,6501,Salerno,Salerno,40,40,52,14,45,40,M,1561
+2003,6601,L’Aquila,Como,45,48,25,9,5,17,M,757
+2003,6701,Teramo,Teramo,42,39,30,13,42,26,M,448
+2003,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1477
+2003,7001,Molise,Campobasso,41,33,36,14,39,37,M,353
+2003,7101,Foggia,Foggia,41,27,54,15,32,42,M,373
+2003,7201,Bari,Bari,41,7,45,16,52,11,M,2282
+2003,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,808
+2003,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,21
+2003,7501,Lecce,L'Aquila,42,21,9,13,23,57,M,689
+2003,7601,Basilicata,Potenza,40,38,20,15,48,12,M,291
+2003,7801,Calabria,Rende,39,20,0,16,10,56,M,1459
+2003,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,273
+2003,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,426
+2003,8201,Palermo,Palermo,38,7,0,13,21,43,M,2448
+2003,8301,Messina,Messina,38,11,36,15,33,14,M,1417
+2003,8701,Catania,Catania,37,30,21,15,5,15,M,1828
+2003,9001,Sassari,Sassari,40,43,45,8,33,38,M,560
+2003,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1662
+2003,101,Torino,Torino,45,3,58,7,40,56,F,5825
+2003,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1067
+2003,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,832
+2003,701,Aosta,Aosta,45,44,18,7,19,14,F,10
+2003,1001,Genova,Genova,44,24,17,8,56,8,F,2785
+2003,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,146
+2003,1202,Insubria,Como,45,48,25,9,5,17,F,566
+2003,1501,Milano,Milano,45,27,57,9,11,24,F,4513
+2003,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,2649
+2003,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1043
+2003,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,4663
+2003,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,1369
+2003,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,106
+2003,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,1615
+2003,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,662
+2003,1701,Brescia,Brescia,45,32,27,10,13,14,F,902
+2003,1801,Pavia,Pavia,45,11,13,9,9,17,F,2251
+2003,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,195
+2003,2201,Trento,Trento,46,4,7,11,7,22,F,979
+2003,2301,Verona,Verona,45,26,40,10,59,56,F,2068
+2003,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2072
+2003,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,698
+2003,2801,Padova,Padova,45,24,33,11,52,23,F,6314
+2003,3001,Udine,Udine,46,3,57,13,14,15,F,1399
+2003,3201,Trieste,Trieste,45,38,58,13,46,20,F,2247
+2003,3401,Parma,Parma,44,48,6,10,19,44,F,2013
+2003,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1367
+2003,3701,Bologna,Bologna,44,29,44,11,20,48,F,7775
+2003,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1108
+2003,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,1855
+2003,4201,Marche,Ancona,43,37,15,13,30,51,F,980
+2003,4301,Macerata,Macerata,43,18,6,13,27,6,F,819
+2003,4302,Camerino,Camerino,43,8,13,13,4,9,F,444
+2003,4801,Firenze,Firenze,43,46,28,11,15,29,F,3598
+2003,5001,Pisa,Pisa,43,42,51,10,24,1,F,3421
+2003,5201,Siena,Siena,43,19,11,11,19,59,F,2044
+2003,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,14
+2003,5401,Perugia,Perugia,43,6,49,12,23,23,F,2452
+2003,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,179
+2003,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,491
+2003,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,11783
+2003,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2506
+2003,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,672
+2003,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,436
+2003,5806,Roma IUSM,Roma ,41,54,27,12,29,24,F,69
+2003,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,1954
+2003,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,56
+2003,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,64
+2003,6001,Cassino,Cassino,41,29,38,13,49,44,F,892
+2003,6201,Sannio,Benevento ,41,7,55,14,46,40,F,213
+2003,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,4677
+2003,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,553
+2003,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,923
+2003,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,901
+2003,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,1361
+2003,6501,Salerno,Salerno,40,40,52,14,45,40,F,2287
+2003,6601,L’Aquila,Como,45,48,25,9,5,17,F,1227
+2003,6701,Teramo,Teramo,42,39,30,13,42,26,F,665
+2003,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,2681
+2003,7001,Molise,Campobasso,41,33,36,14,39,37,F,521
+2003,7101,Foggia,Foggia,41,27,54,15,32,42,F,544
+2003,7201,Bari,Bari,41,7,45,16,52,11,F,4169
+2003,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,230
+2003,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,9
+2003,7501,Lecce,L'Aquila,42,21,9,13,23,57,F,1467
+2003,7601,Basilicata,Potenza,40,38,20,15,48,12,F,280
+2003,7801,Calabria,Rende,39,20,0,16,10,56,F,1924
+2003,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,482
+2003,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,327
+2003,8201,Palermo,Palermo,38,7,0,13,21,43,F,3567
+2003,8301,Messina,Messina,38,11,36,15,33,14,F,2223
+2003,8701,Catania,Catania,37,30,21,15,5,15,F,2769
+2003,9001,Sassari,Sassari,40,43,45,8,33,38,F,1079
+2003,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2537
+2004,101,Torino,Torino,45,3,58,7,40,56,M,3791
+2004,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3112
+2004,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,605
+2004,701,Aosta,Aosta,45,44,18,7,19,14,M,3
+2004,1001,Genova,Genova,44,24,17,8,56,8,M,2367
+2004,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,410
+2004,1202,Insubria,Como,45,48,25,9,5,17,M,490
+2004,1501,Milano,Milano,45,27,57,9,11,24,M,3398
+2004,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6037
+2004,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2484
+2004,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2128
+2004,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,450
+2004,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,69
+2004,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1378
+2004,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,697
+2004,1701,Brescia,Brescia,45,32,27,10,13,14,M,1042
+2004,1801,Pavia,Pavia,45,11,13,9,9,17,M,2063
+2004,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,107
+2004,2201,Trento,Trento,46,4,7,11,7,22,M,970
+2004,2301,Verona,Verona,45,26,40,10,59,56,M,930
+2004,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1217
+2004,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,773
+2004,2801,Padova,Padova,45,24,33,11,52,23,M,4945
+2004,3001,Udine,Udine,46,3,57,13,14,15,M,1323
+2004,3201,Trieste,Trieste,45,38,58,13,46,20,M,2049
+2004,3401,Parma,Parma,44,48,6,10,19,44,M,1854
+2004,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1434
+2004,3701,Bologna,Bologna,44,29,44,11,20,48,M,8280
+2004,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1010
+2004,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1162
+2004,4201,Marche,Ancona,43,37,15,13,30,51,M,1119
+2004,4301,Macerata,Macerata,43,18,6,13,27,6,M,542
+2004,4302,Camerino,Camerino,43,8,13,13,4,9,M,526
+2004,4801,Firenze,Firenze,43,46,28,11,15,29,M,2857
+2004,5001,Pisa,Pisa,43,42,51,10,24,1,M,3428
+2004,5201,Siena,Siena,43,19,11,11,19,59,M,1735
+2004,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,5
+2004,5401,Perugia,Perugia,43,6,49,12,23,23,M,1999
+2004,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,111
+2004,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,917
+2004,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,6509
+2004,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,3835
+2004,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,354
+2004,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,728
+2004,5806,Roma IUSM,Roma ,41,54,27,12,29,24,M,93
+2004,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,1770
+2004,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,40
+2004,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,66
+2004,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,0
+2004,6001,Cassino,Cassino,41,29,38,13,49,44,M,383
+2004,6201,Sannio,Benevento ,41,7,55,14,46,40,M,236
+2004,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5263
+2004,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,829
+2004,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,282
+2004,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,217
+2004,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1348
+2004,6501,Salerno,Salerno,40,40,52,14,45,40,M,1815
+2004,6601,L’Aquila,Como,45,48,25,9,5,17,M,946
+2004,6701,Teramo,Teramo,42,39,30,13,42,26,M,451
+2004,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1992
+2004,7001,Molise,Campobasso,41,33,36,14,39,37,M,474
+2004,7101,Foggia,Foggia,41,27,54,15,32,42,M,408
+2004,7201,Bari,Bari,41,7,45,16,52,11,M,2458
+2004,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,957
+2004,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,86
+2004,7501,Lecce,L'Aquila,42,21,9,13,23,57,M,886
+2004,7601,Basilicata,Potenza,40,38,20,15,48,12,M,328
+2004,7801,Calabria,Rende,39,20,0,16,10,56,M,1722
+2004,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,331
+2004,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,444
+2004,8201,Palermo,Palermo,38,7,0,13,21,43,M,2698
+2004,8301,Messina,Messina,38,11,36,15,33,14,M,1671
+2004,8701,Catania,Catania,37,30,21,15,5,15,M,2310
+2004,9001,Sassari,Sassari,40,43,45,8,33,38,M,602
+2004,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1774
+2004,101,Torino,Torino,45,3,58,7,40,56,F,6593
+2004,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1228
+2004,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1059
+2004,701,Aosta,Aosta,45,44,18,7,19,14,F,27
+2004,1001,Genova,Genova,44,24,17,8,56,8,F,3214
+2004,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,225
+2004,1202,Insubria,Como,45,48,25,9,5,17,F,848
+2004,1501,Milano,Milano,45,27,57,9,11,24,F,5111
+2004,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,2711
+2004,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2107
+2004,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,5291
+2004,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,1881
+2004,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,162
+2004,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,2700
+2004,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,999
+2004,1701,Brescia,Brescia,45,32,27,10,13,14,F,950
+2004,1801,Pavia,Pavia,45,11,13,9,9,17,F,3335
+2004,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,214
+2004,2201,Trento,Trento,46,4,7,11,7,22,F,1099
+2004,2301,Verona,Verona,45,26,40,10,59,56,F,2290
+2004,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2197
+2004,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,794
+2004,2801,Padova,Padova,45,24,33,11,52,23,F,7371
+2004,3001,Udine,Udine,46,3,57,13,14,15,F,1705
+2004,3201,Trieste,Trieste,45,38,58,13,46,20,F,2269
+2004,3401,Parma,Parma,44,48,6,10,19,44,F,2355
+2004,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1649
+2004,3701,Bologna,Bologna,44,29,44,11,20,48,F,8738
+2004,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1416
+2004,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,2063
+2004,4201,Marche,Ancona,43,37,15,13,30,51,F,927
+2004,4301,Macerata,Macerata,43,18,6,13,27,6,F,1187
+2004,4302,Camerino,Camerino,43,8,13,13,4,9,F,459
+2004,4801,Firenze,Firenze,43,46,28,11,15,29,F,4281
+2004,5001,Pisa,Pisa,43,42,51,10,24,1,F,3499
+2004,5201,Siena,Siena,43,19,11,11,19,59,F,2974
+2004,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,36
+2004,5401,Perugia,Perugia,43,6,49,12,23,23,F,2863
+2004,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,257
+2004,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,604
+2004,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,10343
+2004,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,3020
+2004,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,911
+2004,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,697
+2004,5806,Roma IUSM,Roma ,41,54,27,12,29,24,F,68
+2004,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,2751
+2004,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,85
+2004,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,96
+2004,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,0
+2004,6001,Cassino,Cassino,41,29,38,13,49,44,F,871
+2004,6201,Sannio,Benevento ,41,7,55,14,46,40,F,253
+2004,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,5560
+2004,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,801
+2004,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1043
+2004,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1165
+2004,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,1896
+2004,6501,Salerno,Salerno,40,40,52,14,45,40,F,2648
+2004,6601,L’Aquila,Como,45,48,25,9,5,17,F,1390
+2004,6701,Teramo,Teramo,42,39,30,13,42,26,F,636
+2004,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3255
+2004,7001,Molise,Campobasso,41,33,36,14,39,37,F,647
+2004,7101,Foggia,Foggia,41,27,54,15,32,42,F,672
+2004,7201,Bari,Bari,41,7,45,16,52,11,F,4976
+2004,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,315
+2004,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,28
+2004,7501,Lecce,L'Aquila,42,21,9,13,23,57,F,2014
+2004,7601,Basilicata,Potenza,40,38,20,15,48,12,F,423
+2004,7801,Calabria,Rende,39,20,0,16,10,56,F,2656
+2004,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,653
+2004,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,381
+2004,8201,Palermo,Palermo,38,7,0,13,21,43,F,4207
+2004,8301,Messina,Messina,38,11,36,15,33,14,F,3215
+2004,8701,Catania,Catania,37,30,21,15,5,15,F,3154
+2004,9001,Sassari,Sassari,40,43,45,8,33,38,F,1160
+2004,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,3020
+2005,101,Torino,Torino,45,3,58,7,40,56,M,6373
+2005,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3352
+2005,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,627
+2005,701,Aosta,Aosta,45,44,18,7,19,14,M,17
+2005,1001,Genova,Genova,44,24,17,8,56,8,M,2494
+2005,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,448
+2005,1202,Insubria,Como,45,48,25,9,5,17,M,518
+2005,1501,Milano,Milano,45,27,57,9,11,24,M,3723
+2005,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6546
+2005,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2443
+2005,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2982
+2005,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,471
+2005,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,82
+2005,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1585
+2005,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,787
+2005,1701,Brescia,Brescia,45,32,27,10,13,14,M,1156
+2005,1801,Pavia,Pavia,45,11,13,9,9,17,M,1949
+2005,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,96
+2005,2201,Trento,Trento,46,4,7,11,7,22,M,1135
+2005,2301,Verona,Verona,45,26,40,10,59,56,M,1100
+2005,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1045
+2005,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,834
+2005,2801,Padova,Padova,45,24,33,11,52,23,M,5388
+2005,3001,Udine,Udine,46,3,57,13,14,15,M,1287
+2005,3201,Trieste,Trieste,45,38,58,13,46,20,M,2670
+2005,3401,Parma,Parma,44,48,6,10,19,44,M,2137
+2005,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1485
+2005,3701,Bologna,Bologna,44,29,44,11,20,48,M,7900
+2005,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1153
+2005,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1206
+2005,4201,Marche,Ancona,43,37,15,13,30,51,M,1420
+2005,4301,Macerata,Macerata,43,18,6,13,27,6,M,678
+2005,4302,Camerino,Camerino,43,8,13,13,4,9,M,628
+2005,4801,Firenze,Firenze,43,46,28,11,15,29,M,3648
+2005,5001,Pisa,Pisa,43,42,51,10,24,1,M,3361
+2005,5201,Siena,Siena,43,19,11,11,19,59,M,2456
+2005,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,11
+2005,5401,Perugia,Perugia,43,6,49,12,23,23,M,2424
+2005,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,203
+2005,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1032
+2005,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7623
+2005,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2948
+2005,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,468
+2005,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,740
+2005,5806,Roma IUSM,Roma ,41,54,27,12,29,24,M,110
+2005,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2267
+2005,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,58
+2005,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,91
+2005,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,105
+2005,6001,Cassino,Cassino,41,29,38,13,49,44,M,641
+2005,6201,Sannio,Benevento ,41,7,55,14,46,40,M,299
+2005,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5659
+2005,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1054
+2005,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,388
+2005,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,297
+2005,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1645
+2005,6501,Salerno,Salerno,40,40,52,14,45,40,M,1831
+2005,6601,L’Aquila,Como,45,48,25,9,5,17,M,1079
+2005,6701,Teramo,Teramo,42,39,30,13,42,26,M,794
+2005,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,2537
+2005,7001,Molise,Campobasso,41,33,36,14,39,37,M,612
+2005,7101,Foggia,Foggia,41,27,54,15,32,42,M,394
+2005,7201,Bari,Bari,41,7,45,16,52,11,M,2783
+2005,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1150
+2005,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,244
+2005,7501,Lecce,L'Aquila,42,21,9,13,23,57,M,985
+2005,7601,Basilicata,Potenza,40,38,20,15,48,12,M,366
+2005,7801,Calabria,Rende,39,20,0,16,10,56,M,2163
+2005,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,517
+2005,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,613
+2005,8201,Palermo,Palermo,38,7,0,13,21,43,M,2963
+2005,8301,Messina,Messina,38,11,36,15,33,14,M,1669
+2005,8701,Catania,Catania,37,30,21,15,5,15,M,2689
+2005,9001,Sassari,Sassari,40,43,45,8,33,38,M,636
+2005,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1601
+2005,101,Torino,Torino,45,3,58,7,40,56,F,7171
+2005,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1316
+2005,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1080
+2005,701,Aosta,Aosta,45,44,18,7,19,14,F,57
+2005,1001,Genova,Genova,44,24,17,8,56,8,F,3323
+2005,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,234
+2005,1202,Insubria,Como,45,48,25,9,5,17,F,774
+2005,1501,Milano,Milano,45,27,57,9,11,24,F,5764
+2005,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3116
+2005,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1979
+2005,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6245
+2005,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,1768
+2005,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,181
+2005,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3300
+2005,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1232
+2005,1701,Brescia,Brescia,45,32,27,10,13,14,F,1040
+2005,1801,Pavia,Pavia,45,11,13,9,9,17,F,2594
+2005,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,221
+2005,2201,Trento,Trento,46,4,7,11,7,22,F,1305
+2005,2301,Verona,Verona,45,26,40,10,59,56,F,2458
+2005,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2157
+2005,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,853
+2005,2801,Padova,Padova,45,24,33,11,52,23,F,7562
+2005,3001,Udine,Udine,46,3,57,13,14,15,F,1553
+2005,3201,Trieste,Trieste,45,38,58,13,46,20,F,2547
+2005,3401,Parma,Parma,44,48,6,10,19,44,F,2966
+2005,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1884
+2005,3701,Bologna,Bologna,44,29,44,11,20,48,F,10023
+2005,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1795
+2005,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,2408
+2005,4201,Marche,Ancona,43,37,15,13,30,51,F,1151
+2005,4301,Macerata,Macerata,43,18,6,13,27,6,F,1318
+2005,4302,Camerino,Camerino,43,8,13,13,4,9,F,442
+2005,4801,Firenze,Firenze,43,46,28,11,15,29,F,5467
+2005,5001,Pisa,Pisa,43,42,51,10,24,1,F,3693
+2005,5201,Siena,Siena,43,19,11,11,19,59,F,2527
+2005,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,61
+2005,5401,Perugia,Perugia,43,6,49,12,23,23,F,3439
+2005,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,609
+2005,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,846
+2005,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,11789
+2005,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,3054
+2005,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1175
+2005,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,776
+2005,5806,Roma IUSM,Roma ,41,54,27,12,29,24,F,84
+2005,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3176
+2005,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,90
+2005,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,200
+2005,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,5
+2005,6001,Cassino,Cassino,41,29,38,13,49,44,F,1099
+2005,6201,Sannio,Benevento ,41,7,55,14,46,40,F,343
+2005,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,6406
+2005,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1053
+2005,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1458
+2005,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1514
+2005,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,2639
+2005,6501,Salerno,Salerno,40,40,52,14,45,40,F,2911
+2005,6601,L’Aquila,Como,45,48,25,9,5,17,F,1487
+2005,6701,Teramo,Teramo,42,39,30,13,42,26,F,754
+2005,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3682
+2005,7001,Molise,Campobasso,41,33,36,14,39,37,F,749
+2005,7101,Foggia,Foggia,41,27,54,15,32,42,F,694
+2005,7201,Bari,Bari,41,7,45,16,52,11,F,5613
+2005,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,466
+2005,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,68
+2005,7501,Lecce,L'Aquila,42,21,9,13,23,57,F,2502
+2005,7601,Basilicata,Potenza,40,38,20,15,48,12,F,488
+2005,7801,Calabria,Rende,39,20,0,16,10,56,F,3160
+2005,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,856
+2005,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,572
+2005,8201,Palermo,Palermo,38,7,0,13,21,43,F,4450
+2005,8301,Messina,Messina,38,11,36,15,33,14,F,2871
+2005,8701,Catania,Catania,37,30,21,15,5,15,F,3716
+2005,9001,Sassari,Sassari,40,43,45,8,33,38,F,1246
+2005,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2824
+2006,101,Torino,Torino,45,3,58,7,40,56,M,4567
+2006,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3259
+2006,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,580
+2006,701,Aosta,Aosta,45,44,18,7,19,14,M,22
+2006,1001,Genova,Genova,44,24,17,8,56,8,M,2517
+2006,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,395
+2006,1202,Insubria,Como,45,48,25,9,5,17,M,588
+2006,1501,Milano,Milano,45,27,57,9,11,24,M,3927
+2006,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6198
+2006,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,1830
+2006,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2554
+2006,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,402
+2006,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,120
+2006,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1768
+2006,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,776
+2006,1701,Brescia,Brescia,45,32,27,10,13,14,M,1076
+2006,1801,Pavia,Pavia,45,11,13,9,9,17,M,1687
+2006,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,79
+2006,2201,Trento,Trento,46,4,7,11,7,22,M,1040
+2006,2301,Verona,Verona,45,26,40,10,59,56,M,1074
+2006,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1049
+2006,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,874
+2006,2801,Padova,Padova,45,24,33,11,52,23,M,5651
+2006,3001,Udine,Udine,46,3,57,13,14,15,M,1398
+2006,3201,Trieste,Trieste,45,38,58,13,46,20,M,1605
+2006,3401,Parma,Parma,44,48,6,10,19,44,M,2226
+2006,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1474
+2006,3701,Bologna,Bologna,44,29,44,11,20,48,M,7218
+2006,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1191
+2006,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1148
+2006,4201,Marche,Ancona,43,37,15,13,30,51,M,1400
+2006,4301,Macerata,Macerata,43,18,6,13,27,6,M,649
+2006,4302,Camerino,Camerino,43,8,13,13,4,9,M,592
+2006,4801,Firenze,Firenze,43,46,28,11,15,29,M,3784
+2006,5001,Pisa,Pisa,43,42,51,10,24,1,M,3446
+2006,5201,Siena,Siena,43,19,11,11,19,59,M,2930
+2006,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,12
+2006,5401,Perugia,Perugia,43,6,49,12,23,23,M,2357
+2006,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,242
+2006,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1207
+2006,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7856
+2006,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2705
+2006,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,572
+2006,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,590
+2006,5806,Roma IUSM,Roma ,41,54,27,12,29,24,M,109
+2006,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2324
+2006,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,57
+2006,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,361
+2006,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,431
+2006,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,M,60
+2006,6001,Cassino,Cassino,41,29,38,13,49,44,M,790
+2006,6201,Sannio,Benevento ,41,7,55,14,46,40,M,320
+2006,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5973
+2006,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1174
+2006,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,349
+2006,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,297
+2006,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1704
+2006,6501,Salerno,Salerno,40,40,52,14,45,40,M,1953
+2006,6601,L’Aquila,Como,45,48,25,9,5,17,M,1557
+2006,6701,Teramo,Teramo,42,39,30,13,42,26,M,590
+2006,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,2920
+2006,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,1
+2006,7001,Molise,Campobasso,41,33,36,14,39,37,M,557
+2006,7101,Foggia,Foggia,41,27,54,15,32,42,M,457
+2006,7201,Bari,Bari,41,7,45,16,52,11,M,2719
+2006,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1248
+2006,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,387
+2006,7501,Lecce,L'Aquila,42,21,9,13,23,57,M,1186
+2006,7601,Basilicata,Potenza,40,38,20,15,48,12,M,414
+2006,7801,Calabria,Rende,39,20,0,16,10,56,M,2051
+2006,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,788
+2006,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,606
+2006,8201,Palermo,Palermo,38,7,0,13,21,43,M,3217
+2006,8301,Messina,Messina,38,11,36,15,33,14,M,1732
+2006,8701,Catania,Catania,37,30,21,15,5,15,M,2894
+2006,9001,Sassari,Sassari,40,43,45,8,33,38,M,678
+2006,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1567
+2006,101,Torino,Torino,45,3,58,7,40,56,F,6804
+2006,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1268
+2006,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1025
+2006,701,Aosta,Aosta,45,44,18,7,19,14,F,48
+2006,1001,Genova,Genova,44,24,17,8,56,8,F,3356
+2006,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,198
+2006,1202,Insubria,Como,45,48,25,9,5,17,F,925
+2006,1501,Milano,Milano,45,27,57,9,11,24,F,5845
+2006,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,2927
+2006,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1561
+2006,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,5469
+2006,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,1115
+2006,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,262
+2006,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3385
+2006,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1363
+2006,1701,Brescia,Brescia,45,32,27,10,13,14,F,1129
+2006,1801,Pavia,Pavia,45,11,13,9,9,17,F,2403
+2006,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,227
+2006,2201,Trento,Trento,46,4,7,11,7,22,F,1184
+2006,2301,Verona,Verona,45,26,40,10,59,56,F,2332
+2006,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,1934
+2006,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,935
+2006,2801,Padova,Padova,45,24,33,11,52,23,F,7460
+2006,3001,Udine,Udine,46,3,57,13,14,15,F,1660
+2006,3201,Trieste,Trieste,45,38,58,13,46,20,F,2293
+2006,3401,Parma,Parma,44,48,6,10,19,44,F,3007
+2006,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1791
+2006,3701,Bologna,Bologna,44,29,44,11,20,48,F,9380
+2006,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1569
+2006,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,2256
+2006,4201,Marche,Ancona,43,37,15,13,30,51,F,1196
+2006,4301,Macerata,Macerata,43,18,6,13,27,6,F,1423
+2006,4302,Camerino,Camerino,43,8,13,13,4,9,F,477
+2006,4801,Firenze,Firenze,43,46,28,11,15,29,F,5728
+2006,5001,Pisa,Pisa,43,42,51,10,24,1,F,3527
+2006,5201,Siena,Siena,43,19,11,11,19,59,F,2106
+2006,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,48
+2006,5401,Perugia,Perugia,43,6,49,12,23,23,F,3329
+2006,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,474
+2006,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,757
+2006,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,12792
+2006,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2663
+2006,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1196
+2006,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,632
+2006,5806,Roma IUSM,Roma ,41,54,27,12,29,24,F,85
+2006,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3675
+2006,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,98
+2006,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,380
+2006,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,102
+2006,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,F,3
+2006,6001,Cassino,Cassino,41,29,38,13,49,44,F,1263
+2006,6201,Sannio,Benevento ,41,7,55,14,46,40,F,371
+2006,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7029
+2006,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1078
+2006,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1474
+2006,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1749
+2006,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,2610
+2006,6501,Salerno,Salerno,40,40,52,14,45,40,F,3113
+2006,6601,L’Aquila,Como,45,48,25,9,5,17,F,1692
+2006,6701,Teramo,Teramo,42,39,30,13,42,26,F,696
+2006,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3704
+2006,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,0
+2006,7001,Molise,Campobasso,41,33,36,14,39,37,F,810
+2006,7101,Foggia,Foggia,41,27,54,15,32,42,F,842
+2006,7201,Bari,Bari,41,7,45,16,52,11,F,5815
+2006,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,541
+2006,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,141
+2006,7501,Lecce,L'Aquila,42,21,9,13,23,57,F,2754
+2006,7601,Basilicata,Potenza,40,38,20,15,48,12,F,518
+2006,7801,Calabria,Rende,39,20,0,16,10,56,F,3053
+2006,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,1348
+2006,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,645
+2006,8201,Palermo,Palermo,38,7,0,13,21,43,F,4982
+2006,8301,Messina,Messina,38,11,36,15,33,14,F,2945
+2006,8701,Catania,Catania,37,30,21,15,5,15,F,4262
+2006,9001,Sassari,Sassari,40,43,45,8,33,38,F,1252
+2006,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2781
+2007,101,Torino,Torino,45,3,58,7,40,56,M,4252
+2007,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3022
+2007,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,546
+2007,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,5
+2007,701,Aosta,Aosta,45,44,18,7,19,14,M,22
+2007,1001,Genova,Genova,44,24,17,8,56,8,M,2379
+2007,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,387
+2007,1202,Insubria,Como,45,48,25,9,5,17,M,603
+2007,1501,Milano,Milano,45,27,57,9,11,24,M,3809
+2007,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6072
+2007,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2186
+2007,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2666
+2007,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,376
+2007,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,119
+2007,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1636
+2007,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,855
+2007,1701,Brescia,Brescia,45,32,27,10,13,14,M,1072
+2007,1801,Pavia,Pavia,45,11,13,9,9,17,M,1665
+2007,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,102
+2007,2201,Trento,Trento,46,4,7,11,7,22,M,1090
+2007,2301,Verona,Verona,45,26,40,10,59,56,M,1058
+2007,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1060
+2007,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,801
+2007,2801,Padova,Padova,45,24,33,11,52,23,M,5057
+2007,3001,Udine,Udine,46,3,57,13,14,15,M,1337
+2007,3201,Trieste,Trieste,45,38,58,13,46,20,M,1396
+2007,3401,Parma,Parma,44,48,6,10,19,44,M,2041
+2007,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1440
+2007,3701,Bologna,Bologna,44,29,44,11,20,48,M,6634
+2007,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1155
+2007,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1125
+2007,4201,Marche,Ancona,43,37,15,13,30,51,M,1335
+2007,4301,Macerata,Macerata,43,18,6,13,27,6,M,626
+2007,4302,Camerino,Camerino,43,8,13,13,4,9,M,591
+2007,4801,Firenze,Firenze,43,46,28,11,15,29,M,3649
+2007,5001,Pisa,Pisa,43,42,51,10,24,1,M,3394
+2007,5201,Siena,Siena,43,19,11,11,19,59,M,3319
+2007,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,11
+2007,5401,Perugia,Perugia,43,6,49,12,23,23,M,2161
+2007,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,355
+2007,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1448
+2007,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7474
+2007,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2354
+2007,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,463
+2007,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,607
+2007,5806,Roma IUSM,Roma ,41,54,27,12,29,24,M,128
+2007,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2223
+2007,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,68
+2007,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,449
+2007,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,1451
+2007,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,M,405
+2007,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,1
+2007,6001,Cassino,Cassino,41,29,38,13,49,44,M,680
+2007,6201,Sannio,Benevento ,41,7,55,14,46,40,M,395
+2007,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5450
+2007,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1143
+2007,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,412
+2007,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,336
+2007,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1566
+2007,6501,Salerno,Salerno,40,40,52,14,45,40,M,1794
+2007,6601,L’Aquila,Como,45,48,25,9,5,17,M,1546
+2007,6701,Teramo,Teramo,42,39,30,13,42,26,M,745
+2007,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,2925
+2007,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,1
+2007,7001,Molise,Campobasso,41,33,36,14,39,37,M,540
+2007,7101,Foggia,Foggia,41,27,54,15,32,42,M,451
+2007,7201,Bari,Bari,41,7,45,16,52,11,M,2728
+2007,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1083
+2007,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,259
+2007,7501,Lecce,L'Aquila,42,21,9,13,23,57,M,1239
+2007,7601,Basilicata,Potenza,40,38,20,15,48,12,M,402
+2007,7801,Calabria,Rende,39,20,0,16,10,56,M,1776
+2007,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,639
+2007,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,601
+2007,8201,Palermo,Palermo,38,7,0,13,21,43,M,3680
+2007,8301,Messina,Messina,38,11,36,15,33,14,M,1597
+2007,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,448
+2007,8701,Catania,Catania,37,30,21,15,5,15,M,2901
+2007,9001,Sassari,Sassari,40,43,45,8,33,38,M,664
+2007,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1536
+2007,101,Torino,Torino,45,3,58,7,40,56,F,6812
+2007,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1283
+2007,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1158
+2007,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,20
+2007,701,Aosta,Aosta,45,44,18,7,19,14,F,92
+2007,1001,Genova,Genova,44,24,17,8,56,8,F,3288
+2007,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,196
+2007,1202,Insubria,Como,45,48,25,9,5,17,F,850
+2007,1501,Milano,Milano,45,27,57,9,11,24,F,5843
+2007,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,2835
+2007,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1877
+2007,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,5712
+2007,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,1025
+2007,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,322
+2007,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3505
+2007,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1425
+2007,1701,Brescia,Brescia,45,32,27,10,13,14,F,1037
+2007,1801,Pavia,Pavia,45,11,13,9,9,17,F,2368
+2007,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,310
+2007,2201,Trento,Trento,46,4,7,11,7,22,F,1217
+2007,2301,Verona,Verona,45,26,40,10,59,56,F,2299
+2007,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2221
+2007,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,796
+2007,2801,Padova,Padova,45,24,33,11,52,23,F,7110
+2007,3001,Udine,Udine,46,3,57,13,14,15,F,1655
+2007,3201,Trieste,Trieste,45,38,58,13,46,20,F,2114
+2007,3401,Parma,Parma,44,48,6,10,19,44,F,2715
+2007,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1821
+2007,3701,Bologna,Bologna,44,29,44,11,20,48,F,9217
+2007,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1500
+2007,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,2037
+2007,4201,Marche,Ancona,43,37,15,13,30,51,F,1147
+2007,4301,Macerata,Macerata,43,18,6,13,27,6,F,1372
+2007,4302,Camerino,Camerino,43,8,13,13,4,9,F,485
+2007,4801,Firenze,Firenze,43,46,28,11,15,29,F,5746
+2007,5001,Pisa,Pisa,43,42,51,10,24,1,F,3625
+2007,5201,Siena,Siena,43,19,11,11,19,59,F,2085
+2007,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,85
+2007,5401,Perugia,Perugia,43,6,49,12,23,23,F,3174
+2007,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,449
+2007,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,754
+2007,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,12337
+2007,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2699
+2007,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1166
+2007,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,598
+2007,5806,Roma IUSM,Roma ,41,54,27,12,29,24,F,106
+2007,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3897
+2007,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,130
+2007,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,460
+2007,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,262
+2007,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,F,87
+2007,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,0
+2007,6001,Cassino,Cassino,41,29,38,13,49,44,F,1037
+2007,6201,Sannio,Benevento ,41,7,55,14,46,40,F,424
+2007,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,6595
+2007,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1056
+2007,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1459
+2007,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1678
+2007,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,2484
+2007,6501,Salerno,Salerno,40,40,52,14,45,40,F,2966
+2007,6601,L’Aquila,Como,45,48,25,9,5,17,F,1908
+2007,6701,Teramo,Teramo,42,39,30,13,42,26,F,707
+2007,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,4654
+2007,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,6
+2007,7001,Molise,Campobasso,41,33,36,14,39,37,F,812
+2007,7101,Foggia,Foggia,41,27,54,15,32,42,F,777
+2007,7201,Bari,Bari,41,7,45,16,52,11,F,5667
+2007,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,434
+2007,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,117
+2007,7501,Lecce,L'Aquila,42,21,9,13,23,57,F,2837
+2007,7601,Basilicata,Potenza,40,38,20,15,48,12,F,554
+2007,7801,Calabria,Rende,39,20,0,16,10,56,F,2881
+2007,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,1272
+2007,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,584
+2007,8201,Palermo,Palermo,38,7,0,13,21,43,F,6450
+2007,8301,Messina,Messina,38,11,36,15,33,14,F,3275
+2007,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,144
+2007,8701,Catania,Catania,37,30,21,15,5,15,F,4172
+2007,9001,Sassari,Sassari,40,43,45,8,33,38,F,1205
+2007,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2635
+2008,101,Torino,Torino,45,3,58,7,40,56,M,4048
+2008,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3052
+2008,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,561
+2008,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,29
+2008,701,Aosta,Aosta,45,44,18,7,19,14,M,18
+2008,1001,Genova,Genova,44,24,17,8,56,8,M,2367
+2008,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,371
+2008,1202,Insubria,Como,45,48,25,9,5,17,M,579
+2008,1501,Milano,Milano,45,27,57,9,11,24,M,3810
+2008,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,5900
+2008,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2272
+2008,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2501
+2008,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,381
+2008,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,182
+2008,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1698
+2008,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,843
+2008,1701,Brescia,Brescia,45,32,27,10,13,14,M,1130
+2008,1801,Pavia,Pavia,45,11,13,9,9,17,M,1696
+2008,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,107
+2008,2201,Trento,Trento,46,4,7,11,7,22,M,1083
+2008,2301,Verona,Verona,45,26,40,10,59,56,M,1130
+2008,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1118
+2008,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,719
+2008,2801,Padova,Padova,45,24,33,11,52,23,M,4822
+2008,3001,Udine,Udine,46,3,57,13,14,15,M,1260
+2008,3201,Trieste,Trieste,45,38,58,13,46,20,M,1319
+2008,3401,Parma,Parma,44,48,6,10,19,44,M,2023
+2008,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1416
+2008,3701,Bologna,Bologna,44,29,44,11,20,48,M,6720
+2008,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1200
+2008,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,1014
+2008,4201,Marche,Ancona,43,37,15,13,30,51,M,1427
+2008,4301,Macerata,Macerata,43,18,6,13,27,6,M,615
+2008,4302,Camerino,Camerino,43,8,13,13,4,9,M,583
+2008,4801,Firenze,Firenze,43,46,28,11,15,29,M,3981
+2008,5001,Pisa,Pisa,43,42,51,10,24,1,M,3355
+2008,5201,Siena,Siena,43,19,11,11,19,59,M,4267
+2008,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,19
+2008,5401,Perugia,Perugia,43,6,49,12,23,23,M,2275
+2008,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,206
+2008,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1771
+2008,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7583
+2008,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2569
+2008,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,495
+2008,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,772
+2008,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,97
+2008,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2233
+2008,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,76
+2008,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,131
+2008,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,1385
+2008,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,M,152
+2008,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,4
+2008,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,3
+2008,5815,Roma UNISU,Roma ,41,54,27,12,29,24,M,121
+2008,6001,Cassino,Cassino,41,29,38,13,49,44,M,687
+2008,6201,Sannio,Benevento ,41,7,55,14,46,40,M,448
+2008,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,2
+2008,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5532
+2008,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1039
+2008,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,358
+2008,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,316
+2008,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1608
+2008,6501,Salerno,Salerno,40,40,52,14,45,40,M,1675
+2008,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1463
+2008,6701,Teramo,Teramo,42,39,30,13,42,26,M,605
+2008,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,2400
+2008,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,12
+2008,7001,Molise,Campobasso,41,33,36,14,39,37,M,563
+2008,7101,Foggia,Foggia,41,27,54,15,32,42,M,581
+2008,7201,Bari,Bari,41,7,45,16,52,11,M,2509
+2008,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1087
+2008,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,134
+2008,7501,Salento,Lecce,40,21,10,18,10,27,M,1146
+2008,7601,Basilicata,Potenza,40,38,20,15,48,12,M,327
+2008,7801,Calabria,Rende,39,20,0,16,10,56,M,1695
+2008,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,758
+2008,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,574
+2008,8201,Palermo,Palermo,38,7,0,13,21,43,M,3164
+2008,8301,Messina,Messina,38,11,36,15,33,14,M,1636
+2008,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,297
+2008,8701,Catania,Catania,37,30,21,15,5,15,M,2845
+2008,9001,Sassari,Sassari,40,43,45,8,33,38,M,612
+2008,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1488
+2008,101,Torino,Torino,45,3,58,7,40,56,F,6899
+2008,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1280
+2008,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1135
+2008,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,31
+2008,701,Aosta,Aosta,45,44,18,7,19,14,F,100
+2008,1001,Genova,Genova,44,24,17,8,56,8,F,3340
+2008,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,186
+2008,1202,Insubria,Como,45,48,25,9,5,17,F,821
+2008,1501,Milano,Milano,45,27,57,9,11,24,F,5817
+2008,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3100
+2008,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1949
+2008,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,5635
+2008,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,981
+2008,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,360
+2008,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3287
+2008,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1465
+2008,1701,Brescia,Brescia,45,32,27,10,13,14,F,1114
+2008,1801,Pavia,Pavia,45,11,13,9,9,17,F,2362
+2008,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,334
+2008,2201,Trento,Trento,46,4,7,11,7,22,F,1244
+2008,2301,Verona,Verona,45,26,40,10,59,56,F,2441
+2008,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2238
+2008,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,778
+2008,2801,Padova,Padova,45,24,33,11,52,23,F,6935
+2008,3001,Udine,Udine,46,3,57,13,14,15,F,1657
+2008,3201,Trieste,Trieste,45,38,58,13,46,20,F,2034
+2008,3401,Parma,Parma,44,48,6,10,19,44,F,2541
+2008,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1867
+2008,3701,Bologna,Bologna,44,29,44,11,20,48,F,9211
+2008,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1541
+2008,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,1862
+2008,4201,Marche,Ancona,43,37,15,13,30,51,F,1244
+2008,4301,Macerata,Macerata,43,18,6,13,27,6,F,1301
+2008,4302,Camerino,Camerino,43,8,13,13,4,9,F,495
+2008,4801,Firenze,Firenze,43,46,28,11,15,29,F,5770
+2008,5001,Pisa,Pisa,43,42,51,10,24,1,F,3692
+2008,5201,Siena,Siena,43,19,11,11,19,59,F,2026
+2008,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,98
+2008,5401,Perugia,Perugia,43,6,49,12,23,23,F,2980
+2008,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,326
+2008,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,780
+2008,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,12121
+2008,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2835
+2008,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1203
+2008,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,824
+2008,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,82
+2008,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3503
+2008,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,97
+2008,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,176
+2008,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,310
+2008,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,F,83
+2008,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,24
+2008,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,0
+2008,5815,Roma UNISU,Roma ,41,54,27,12,29,24,F,86
+2008,6001,Cassino,Cassino,41,29,38,13,49,44,F,976
+2008,6201,Sannio,Benevento ,41,7,55,14,46,40,F,454
+2008,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,0
+2008,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,6556
+2008,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1002
+2008,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1312
+2008,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1535
+2008,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,2358
+2008,6501,Salerno,Salerno,40,40,52,14,45,40,F,2717
+2008,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1797
+2008,6701,Teramo,Teramo,42,39,30,13,42,26,F,640
+2008,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3798
+2008,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,5
+2008,7001,Molise,Campobasso,41,33,36,14,39,37,F,800
+2008,7101,Foggia,Foggia,41,27,54,15,32,42,F,1001
+2008,7201,Bari,Bari,41,7,45,16,52,11,F,5432
+2008,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,427
+2008,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,66
+2008,7501,Salento,Lecce,40,21,10,18,10,27,F,2810
+2008,7601,Basilicata,Potenza,40,38,20,15,48,12,F,500
+2008,7801,Calabria,Rende,39,20,0,16,10,56,F,2583
+2008,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,1265
+2008,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,651
+2008,8201,Palermo,Palermo,38,7,0,13,21,43,F,5106
+2008,8301,Messina,Messina,38,11,36,15,33,14,F,3104
+2008,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,187
+2008,8701,Catania,Catania,37,30,21,15,5,15,F,4486
+2008,9001,Sassari,Sassari,40,43,45,8,33,38,F,1156
+2008,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2602
+2009,101,Torino,Torino,45,3,58,7,40,56,M,3915
+2009,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3194
+2009,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,539
+2009,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,34
+2009,701,Aosta,Aosta,45,44,18,7,19,14,M,29
+2009,1001,Genova,Genova,44,24,17,8,56,8,M,2432
+2009,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,334
+2009,1202,Insubria,Como,45,48,25,9,5,17,M,621
+2009,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,20
+2009,1501,Milano,Milano,45,27,57,9,11,24,M,3547
+2009,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,5728
+2009,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,1992
+2009,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2675
+2009,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,316
+2009,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,160
+2009,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1786
+2009,1510,Milano UNITEL,Milano ,45,27,57,9,11,24,M,6
+2009,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,872
+2009,1701,Brescia,Brescia,45,32,27,10,13,14,M,1116
+2009,1801,Pavia,Pavia,45,11,13,9,9,17,M,1724
+2009,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,120
+2009,2201,Trento,Trento,46,4,7,11,7,22,M,1103
+2009,2301,Verona,Verona,45,26,40,10,59,56,M,1153
+2009,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1116
+2009,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,769
+2009,2801,Padova,Padova,45,24,33,11,52,23,M,4928
+2009,3001,Udine,Udine,46,3,57,13,14,15,M,1231
+2009,3201,Trieste,Trieste,45,38,58,13,46,20,M,1266
+2009,3401,Parma,Parma,44,48,6,10,19,44,M,1932
+2009,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1418
+2009,3701,Bologna,Bologna,44,29,44,11,20,48,M,6453
+2009,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1170
+2009,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,984
+2009,4201,Marche,Ancona,43,37,15,13,30,51,M,1432
+2009,4301,Macerata,Macerata,43,18,6,13,27,6,M,584
+2009,4302,Camerino,Camerino,43,8,13,13,4,9,M,649
+2009,4801,Firenze,Firenze,43,46,28,11,15,29,M,3913
+2009,4804,Firenze IUL,Firenze,43,46,28,11,15,29,M,5
+2009,5001,Pisa,Pisa,43,42,51,10,24,1,M,3483
+2009,5201,Siena,Siena,43,19,11,11,19,59,M,4069
+2009,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,13
+2009,5401,Perugia,Perugia,43,6,49,12,23,23,M,2158
+2009,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,180
+2009,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1636
+2009,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,8050
+2009,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2505
+2009,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,477
+2009,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,888
+2009,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,155
+2009,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2157
+2009,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,70
+2009,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,165
+2009,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,1007
+2009,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,M,141
+2009,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,13
+2009,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,71
+2009,5815,Roma UNISU,Roma ,41,54,27,12,29,24,M,287
+2009,6001,Cassino,Cassino,41,29,38,13,49,44,M,601
+2009,6201,Sannio,Benevento ,41,7,55,14,46,40,M,445
+2009,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,28
+2009,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5236
+2009,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1056
+2009,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,376
+2009,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,311
+2009,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1590
+2009,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,M,134
+2009,6501,Salerno,Salerno,40,40,52,14,45,40,M,1627
+2009,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1250
+2009,6701,Teramo,Teramo,42,39,30,13,42,26,M,466
+2009,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1819
+2009,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,14
+2009,7001,Molise,Campobasso,41,33,36,14,39,37,M,430
+2009,7101,Foggia,Foggia,41,27,54,15,32,42,M,497
+2009,7201,Bari,Bari,41,7,45,16,52,11,M,2638
+2009,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1038
+2009,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,176
+2009,7501,Salento,Lecce,40,21,10,18,10,27,M,1231
+2009,7601,Basilicata,Potenza,40,38,20,15,48,12,M,310
+2009,7801,Calabria,Rende,39,20,0,16,10,56,M,1745
+2009,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,640
+2009,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,587
+2009,8201,Palermo,Palermo,38,7,0,13,21,43,M,2674
+2009,8301,Messina,Messina,38,11,36,15,33,14,M,1589
+2009,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,193
+2009,8701,Catania,Catania,37,30,21,15,5,15,M,3222
+2009,9001,Sassari,Sassari,40,43,45,8,33,38,M,645
+2009,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1518
+2009,101,Torino,Torino,45,3,58,7,40,56,F,6738
+2009,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1352
+2009,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,957
+2009,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,19
+2009,701,Aosta,Aosta,45,44,18,7,19,14,F,98
+2009,1001,Genova,Genova,44,24,17,8,56,8,F,3441
+2009,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,199
+2009,1202,Insubria,Como,45,48,25,9,5,17,F,840
+2009,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,10
+2009,1501,Milano,Milano,45,27,57,9,11,24,F,5764
+2009,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,2983
+2009,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1680
+2009,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,5780
+2009,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,881
+2009,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,344
+2009,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3236
+2009,1510,Milano UNITEL,Milano ,45,27,57,9,11,24,F,12
+2009,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1524
+2009,1701,Brescia,Brescia,45,32,27,10,13,14,F,1083
+2009,1801,Pavia,Pavia,45,11,13,9,9,17,F,2283
+2009,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,357
+2009,2201,Trento,Trento,46,4,7,11,7,22,F,1264
+2009,2301,Verona,Verona,45,26,40,10,59,56,F,2547
+2009,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2192
+2009,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,832
+2009,2801,Padova,Padova,45,24,33,11,52,23,F,6856
+2009,3001,Udine,Udine,46,3,57,13,14,15,F,1641
+2009,3201,Trieste,Trieste,45,38,58,13,46,20,F,1984
+2009,3401,Parma,Parma,44,48,6,10,19,44,F,2610
+2009,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,1782
+2009,3701,Bologna,Bologna,44,29,44,11,20,48,F,9096
+2009,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1529
+2009,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,1823
+2009,4201,Marche,Ancona,43,37,15,13,30,51,F,1360
+2009,4301,Macerata,Macerata,43,18,6,13,27,6,F,1448
+2009,4302,Camerino,Camerino,43,8,13,13,4,9,F,519
+2009,4801,Firenze,Firenze,43,46,28,11,15,29,F,5861
+2009,4804,Firenze IUL,Firenze,43,46,28,11,15,29,F,19
+2009,5001,Pisa,Pisa,43,42,51,10,24,1,F,3634
+2009,5201,Siena,Siena,43,19,11,11,19,59,F,2075
+2009,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,106
+2009,5401,Perugia,Perugia,43,6,49,12,23,23,F,3134
+2009,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,285
+2009,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,706
+2009,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,13467
+2009,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2868
+2009,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1107
+2009,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,844
+2009,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,96
+2009,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3230
+2009,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,119
+2009,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,196
+2009,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,307
+2009,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,F,51
+2009,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,31
+2009,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,43
+2009,5815,Roma UNISU,Roma ,41,54,27,12,29,24,F,165
+2009,6001,Cassino,Cassino,41,29,38,13,49,44,F,1016
+2009,6201,Sannio,Benevento ,41,7,55,14,46,40,F,481
+2009,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,13
+2009,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,6600
+2009,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,983
+2009,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1437
+2009,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1415
+2009,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,2389
+2009,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,F,277
+2009,6501,Salerno,Salerno,40,40,52,14,45,40,F,2661
+2009,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1882
+2009,6701,Teramo,Teramo,42,39,30,13,42,26,F,520
+2009,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3358
+2009,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,13
+2009,7001,Molise,Campobasso,41,33,36,14,39,37,F,691
+2009,7101,Foggia,Foggia,41,27,54,15,32,42,F,824
+2009,7201,Bari,Bari,41,7,45,16,52,11,F,5278
+2009,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,465
+2009,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,105
+2009,7501,Salento,Lecce,40,21,10,18,10,27,F,2698
+2009,7601,Basilicata,Potenza,40,38,20,15,48,12,F,493
+2009,7801,Calabria,Rende,39,20,0,16,10,56,F,2545
+2009,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,1115
+2009,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,619
+2009,8201,Palermo,Palermo,38,7,0,13,21,43,F,4667
+2009,8301,Messina,Messina,38,11,36,15,33,14,F,2975
+2009,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,218
+2009,8701,Catania,Catania,37,30,21,15,5,15,F,5047
+2009,9001,Sassari,Sassari,40,43,45,8,33,38,F,1161
+2009,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2579
+2010,101,Torino,Torino,45,3,58,7,40,56,M,4220
+2010,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3266
+2010,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,601
+2010,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,33
+2010,701,Aosta,Aosta,45,44,18,7,19,14,M,42
+2010,1001,Genova,Genova,44,24,17,8,56,8,M,2396
+2010,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,329
+2010,1202,Insubria,Como,45,48,25,9,5,17,M,653
+2010,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,90
+2010,1501,Milano,Milano,45,27,57,9,11,24,M,3884
+2010,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,5371
+2010,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2207
+2010,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2688
+2010,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,304
+2010,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,173
+2010,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1644
+2010,1510,Milano UNITEL,Milano ,45,27,57,9,11,24,M,7
+2010,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,857
+2010,1701,Brescia,Brescia,45,32,27,10,13,14,M,1121
+2010,1801,Pavia,Pavia,45,11,13,9,9,17,M,1650
+2010,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,136
+2010,2201,Trento,Trento,46,4,7,11,7,22,M,1203
+2010,2301,Verona,Verona,45,26,40,10,59,56,M,1288
+2010,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1179
+2010,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,715
+2010,2801,Padova,Padova,45,24,33,11,52,23,M,4849
+2010,3001,Udine,Udine,46,3,57,13,14,15,M,1225
+2010,3201,Trieste,Trieste,45,38,58,13,46,20,M,1298
+2010,3401,Parma,Parma,44,48,6,10,19,44,M,1900
+2010,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1493
+2010,3701,Bologna,Bologna,44,29,44,11,20,48,M,6291
+2010,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1217
+2010,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,990
+2010,4201,Marche,Ancona,43,37,15,13,30,51,M,1406
+2010,4301,Macerata,Macerata,43,18,6,13,27,6,M,459
+2010,4302,Camerino,Camerino,43,8,13,13,4,9,M,543
+2010,4801,Firenze,Firenze,43,46,28,11,15,29,M,4021
+2010,4804,Firenze IUL,Firenze,43,46,28,11,15,29,M,2
+2010,5001,Pisa,Pisa,43,42,51,10,24,1,M,3198
+2010,5201,Siena,Siena,43,19,11,11,19,59,M,1332
+2010,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,18
+2010,5401,Perugia,Perugia,43,6,49,12,23,23,M,2095
+2010,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,152
+2010,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1250
+2010,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7566
+2010,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2560
+2010,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,457
+2010,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1007
+2010,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,150
+2010,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2208
+2010,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,90
+2010,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,M,122
+2010,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,1109
+2010,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,M,176
+2010,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,35
+2010,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,51
+2010,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,M,14
+2010,5815,Roma UNISU,Roma ,41,54,27,12,29,24,M,326
+2010,6001,Cassino,Cassino,41,29,38,13,49,44,M,626
+2010,6201,Sannio,Benevento ,41,7,55,14,46,40,M,329
+2010,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,42
+2010,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5197
+2010,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1076
+2010,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,362
+2010,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,309
+2010,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1807
+2010,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,M,252
+2010,6501,Salerno,Salerno,40,40,52,14,45,40,M,1669
+2010,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1316
+2010,6701,Teramo,Teramo,42,39,30,13,42,26,M,503
+2010,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1553
+2010,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,19
+2010,7001,Molise,Campobasso,41,33,36,14,39,37,M,485
+2010,7101,Foggia,Foggia,41,27,54,15,32,42,M,576
+2010,7201,Bari,Bari,41,7,45,16,52,11,M,2469
+2010,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1012
+2010,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,117
+2010,7501,Salento,Lecce,40,21,10,18,10,27,M,1126
+2010,7601,Basilicata,Potenza,40,38,20,15,48,12,M,373
+2010,7801,Calabria,Rende,39,20,0,16,10,56,M,1760
+2010,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,660
+2010,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,506
+2010,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,4
+2010,8201,Palermo,Palermo,38,7,0,13,21,43,M,2812
+2010,8301,Messina,Messina,38,11,36,15,33,14,M,1592
+2010,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,311
+2010,8701,Catania,Catania,37,30,21,15,5,15,M,2776
+2010,9001,Sassari,Sassari,40,43,45,8,33,38,M,603
+2010,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1445
+2010,101,Torino,Torino,45,3,58,7,40,56,F,7189
+2010,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1450
+2010,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1079
+2010,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,30
+2010,701,Aosta,Aosta,45,44,18,7,19,14,F,119
+2010,1001,Genova,Genova,44,24,17,8,56,8,F,3395
+2010,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,184
+2010,1202,Insubria,Como,45,48,25,9,5,17,F,921
+2010,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,61
+2010,1501,Milano,Milano,45,27,57,9,11,24,F,5781
+2010,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,2927
+2010,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1847
+2010,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,5839
+2010,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,850
+2010,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,373
+2010,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3088
+2010,1510,Milano UNITEL,Milano ,45,27,57,9,11,24,F,9
+2010,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1590
+2010,1701,Brescia,Brescia,45,32,27,10,13,14,F,1105
+2010,1801,Pavia,Pavia,45,11,13,9,9,17,F,2386
+2010,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,396
+2010,2201,Trento,Trento,46,4,7,11,7,22,F,1216
+2010,2301,Verona,Verona,45,26,40,10,59,56,F,2615
+2010,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2372
+2010,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,859
+2010,2801,Padova,Padova,45,24,33,11,52,23,F,6761
+2010,3001,Udine,Udine,46,3,57,13,14,15,F,1618
+2010,3201,Trieste,Trieste,45,38,58,13,46,20,F,1962
+2010,3401,Parma,Parma,44,48,6,10,19,44,F,2651
+2010,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2084
+2010,3701,Bologna,Bologna,44,29,44,11,20,48,F,8829
+2010,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1481
+2010,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,1825
+2010,4201,Marche,Ancona,43,37,15,13,30,51,F,1310
+2010,4301,Macerata,Macerata,43,18,6,13,27,6,F,1308
+2010,4302,Camerino,Camerino,43,8,13,13,4,9,F,521
+2010,4801,Firenze,Firenze,43,46,28,11,15,29,F,5600
+2010,4804,Firenze IUL,Firenze,43,46,28,11,15,29,F,11
+2010,5001,Pisa,Pisa,43,42,51,10,24,1,F,3494
+2010,5201,Siena,Siena,43,19,11,11,19,59,F,1914
+2010,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,89
+2010,5401,Perugia,Perugia,43,6,49,12,23,23,F,3047
+2010,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,258
+2010,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,658
+2010,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,12216
+2010,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2904
+2010,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1044
+2010,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1049
+2010,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,106
+2010,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3384
+2010,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,111
+2010,5809,Roma San Pio V,Roma ,41,54,27,12,29,24,F,179
+2010,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,415
+2010,5811,Roma TEL.M.A.,Roma ,41,54,27,12,29,24,F,83
+2010,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,61
+2010,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,35
+2010,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,F,8
+2010,5815,Roma UNISU,Roma ,41,54,27,12,29,24,F,283
+2010,6001,Cassino,Cassino,41,29,38,13,49,44,F,914
+2010,6201,Sannio,Benevento ,41,7,55,14,46,40,F,402
+2010,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,26
+2010,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,6849
+2010,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1080
+2010,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1380
+2010,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1471
+2010,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,2523
+2010,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,F,352
+2010,6501,Salerno,Salerno,40,40,52,14,45,40,F,2675
+2010,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1936
+2010,6701,Teramo,Teramo,42,39,30,13,42,26,F,552
+2010,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,2954
+2010,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,37
+2010,7001,Molise,Campobasso,41,33,36,14,39,37,F,752
+2010,7101,Foggia,Foggia,41,27,54,15,32,42,F,1010
+2010,7201,Bari,Bari,41,7,45,16,52,11,F,5256
+2010,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,444
+2010,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,95
+2010,7501,Salento,Lecce,40,21,10,18,10,27,F,2755
+2010,7601,Basilicata,Potenza,40,38,20,15,48,12,F,563
+2010,7801,Calabria,Rende,39,20,0,16,10,56,F,2741
+2010,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,1219
+2010,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,500
+2010,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,12
+2010,8201,Palermo,Palermo,38,7,0,13,21,43,F,4636
+2010,8301,Messina,Messina,38,11,36,15,33,14,F,3028
+2010,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,405
+2010,8701,Catania,Catania,37,30,21,15,5,15,F,4449
+2010,9001,Sassari,Sassari,40,43,45,8,33,38,F,1136
+2010,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2644
+2011,101,Torino,Torino,45,3,58,7,40,56,M,4056
+2011,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3421
+2011,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,515
+2011,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,28
+2011,701,Aosta,Aosta,45,44,18,7,19,14,M,36
+2011,1001,Genova,Genova,44,24,17,8,56,8,M,2539
+2011,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,347
+2011,1202,Insubria,Como,45,48,25,9,5,17,M,611
+2011,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,183
+2011,1501,Milano,Milano,45,27,57,9,11,24,M,3714
+2011,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,5729
+2011,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2173
+2011,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2807
+2011,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,295
+2011,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,183
+2011,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1899
+2011,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,M,8
+2011,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,930
+2011,1701,Brescia,Brescia,45,32,27,10,13,14,M,1184
+2011,1801,Pavia,Pavia,45,11,13,9,9,17,M,1741
+2011,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,158
+2011,2201,Trento,Trento,46,4,7,11,7,22,M,1218
+2011,2301,Verona,Verona,45,26,40,10,59,56,M,1265
+2011,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,M,1124
+2011,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,731
+2011,2801,Padova,Padova,45,24,33,11,52,23,M,4953
+2011,3001,Udine,Udine,46,3,57,13,14,15,M,1238
+2011,3201,Trieste,Trieste,45,38,58,13,46,20,M,1316
+2011,3401,Parma,Parma,44,48,6,10,19,44,M,2049
+2011,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1559
+2011,3701,Bologna,Bologna,44,29,44,11,20,48,M,6113
+2011,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1308
+2011,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,M,906
+2011,4201,Marche,Ancona,43,37,15,13,30,51,M,1443
+2011,4301,Macerata,Macerata,43,18,6,13,27,6,M,436
+2011,4302,Camerino,Camerino,43,8,13,13,4,9,M,535
+2011,4801,Firenze,Firenze,43,46,28,11,15,29,M,4049
+2011,4804,Firenze IUL,Firenze,43,46,28,11,15,29,M,0
+2011,5001,Pisa,Pisa,43,42,51,10,24,1,M,3240
+2011,5201,Siena,Siena,43,19,11,11,19,59,M,1345
+2011,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,20
+2011,5401,Perugia,Perugia,43,6,49,12,23,23,M,2074
+2011,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,153
+2011,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1105
+2011,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7541
+2011,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2577
+2011,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,391
+2011,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,972
+2011,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,176
+2011,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2100
+2011,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,101
+2011,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,144
+2011,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,1017
+2011,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,M,138
+2011,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,63
+2011,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,58
+2011,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,M,11
+2011,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,M,1254
+2011,6001,Cassino,Cassino,41,29,38,13,49,44,M,598
+2011,6201,Sannio,Benevento ,41,7,55,14,46,40,M,359
+2011,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,58
+2011,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5270
+2011,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1098
+2011,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,365
+2011,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,287
+2011,6306,Napoli II,Napoli ,40,51,14,14,15,2,M,1820
+2011,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,M,1423
+2011,6501,Salerno,Salerno,40,40,52,14,45,40,M,1677
+2011,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1238
+2011,6701,Teramo,Teramo,42,39,30,13,42,26,M,600
+2011,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1692
+2011,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,25
+2011,7001,Molise,Campobasso,41,33,36,14,39,37,M,623
+2011,7101,Foggia,Foggia,41,27,54,15,32,42,M,468
+2011,7201,Bari,Bari,41,7,45,16,52,11,M,2412
+2011,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1088
+2011,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,135
+2011,7501,Salento,Lecce,40,21,10,18,10,27,M,1109
+2011,7601,Basilicata,Potenza,40,38,20,15,48,12,M,407
+2011,7801,Calabria,Rende,39,20,0,16,10,56,M,1802
+2011,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,615
+2011,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,583
+2011,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,6
+2011,8201,Palermo,Palermo,38,7,0,13,21,43,M,2960
+2011,8301,Messina,Messina,38,11,36,15,33,14,M,1624
+2011,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,269
+2011,8701,Catania,Catania,37,30,21,15,5,15,M,2758
+2011,9001,Sassari,Sassari,40,43,45,8,33,38,M,690
+2011,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1564
+2011,101,Torino,Torino,45,3,58,7,40,56,F,7011
+2011,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1599
+2011,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1063
+2011,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,33
+2011,701,Aosta,Aosta,45,44,18,7,19,14,F,132
+2011,1001,Genova,Genova,44,24,17,8,56,8,F,3374
+2011,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,197
+2011,1202,Insubria,Como,45,48,25,9,5,17,F,904
+2011,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,142
+2011,1501,Milano,Milano,45,27,57,9,11,24,F,5912
+2011,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3301
+2011,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,1912
+2011,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6014
+2011,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,723
+2011,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,373
+2011,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3593
+2011,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,F,4
+2011,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1606
+2011,1701,Brescia,Brescia,45,32,27,10,13,14,F,1185
+2011,1801,Pavia,Pavia,45,11,13,9,9,17,F,2454
+2011,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,472
+2011,2201,Trento,Trento,46,4,7,11,7,22,F,1445
+2011,2301,Verona,Verona,45,26,40,10,59,56,F,2762
+2011,2701,Venezia Cà Foscari,Venezia ,45,26,17,12,19,39,F,2438
+2011,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,783
+2011,2801,Padova,Padova,45,24,33,11,52,23,F,6747
+2011,3001,Udine,Udine,46,3,57,13,14,15,F,1699
+2011,3201,Trieste,Trieste,45,38,58,13,46,20,F,1910
+2011,3401,Parma,Parma,44,48,6,10,19,44,F,2665
+2011,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2082
+2011,3701,Bologna,Bologna,44,29,44,11,20,48,F,9202
+2011,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1626
+2011,4101,Urbino Carlo Bo,Urbino,43,43,36,12,38,11,F,1864
+2011,4201,Marche,Ancona,43,37,15,13,30,51,F,1424
+2011,4301,Macerata,Macerata,43,18,6,13,27,6,F,1422
+2011,4302,Camerino,Camerino,43,8,13,13,4,9,F,489
+2011,4801,Firenze,Firenze,43,46,28,11,15,29,F,5547
+2011,4804,Firenze IUL,Firenze,43,46,28,11,15,29,F,3
+2011,5001,Pisa,Pisa,43,42,51,10,24,1,F,3516
+2011,5201,Siena,Siena,43,19,11,11,19,59,F,2041
+2011,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,118
+2011,5401,Perugia,Perugia,43,6,49,12,23,23,F,3026
+2011,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,236
+2011,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,688
+2011,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,12742
+2011,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,3089
+2011,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1069
+2011,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1090
+2011,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,86
+2011,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3198
+2011,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,132
+2011,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,222
+2011,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,402
+2011,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,F,99
+2011,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,112
+2011,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,44
+2011,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,F,12
+2011,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,F,482
+2011,6001,Cassino,Cassino,41,29,38,13,49,44,F,894
+2011,6201,Sannio,Benevento ,41,7,55,14,46,40,F,406
+2011,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,35
+2011,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,6949
+2011,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,951
+2011,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1445
+2011,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1575
+2011,6306,Napoli II,Napoli ,40,51,14,14,15,2,F,2547
+2011,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,F,506
+2011,6501,Salerno,Salerno,40,40,52,14,45,40,F,2752
+2011,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,2022
+2011,6701,Teramo,Teramo,42,39,30,13,42,26,F,491
+2011,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3577
+2011,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,38
+2011,7001,Molise,Campobasso,41,33,36,14,39,37,F,1052
+2011,7101,Foggia,Foggia,41,27,54,15,32,42,F,980
+2011,7201,Bari,Bari,41,7,45,16,52,11,F,5186
+2011,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,464
+2011,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,85
+2011,7501,Salento,Lecce,40,21,10,18,10,27,F,2843
+2011,7601,Basilicata,Potenza,40,38,20,15,48,12,F,574
+2011,7801,Calabria,Rende,39,20,0,16,10,56,F,2982
+2011,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,988
+2011,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,546
+2011,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,23
+2011,8201,Palermo,Palermo,38,7,0,13,21,43,F,5118
+2011,8301,Messina,Messina,38,11,36,15,33,14,F,3006
+2011,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,586
+2011,8701,Catania,Catania,37,30,21,15,5,15,F,4483
+2011,9001,Sassari,Sassari,40,43,45,8,33,38,F,1499
+2011,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2850
+2012,101,Torino,Torino,45,3,58,7,40,56,F,7127
+2012,101,Torino,Torino,45,3,58,7,40,56,M,3856
+2012,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1647
+2012,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3680
+2012,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,913
+2012,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,502
+2012,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,26
+2012,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,28
+2012,701,Aosta,Aosta,45,44,18,7,19,14,F,115
+2012,701,Aosta,Aosta,45,44,18,7,19,14,M,42
+2012,1001,Genova,Genova,44,24,17,8,56,8,F,3659
+2012,1001,Genova,Genova,44,24,17,8,56,8,M,2483
+2012,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,162
+2012,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,356
+2012,1202,Insubria,Como,45,48,25,9,5,17,F,1014
+2012,1202,Insubria,Como,45,48,25,9,5,17,M,665
+2012,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,209
+2012,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,318
+2012,1501,Milano,Milano,45,27,57,9,11,24,F,6355
+2012,1501,Milano,Milano,45,27,57,9,11,24,M,3800
+2012,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3353
+2012,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,5602
+2012,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2079
+2012,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2180
+2012,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6245
+2012,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,2876
+2012,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,791
+2012,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,266
+2012,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,371
+2012,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,162
+2012,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3502
+2012,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,1881
+2012,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1622
+2012,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,916
+2012,1701,Brescia,Brescia,45,32,27,10,13,14,F,1180
+2012,1701,Brescia,Brescia,45,32,27,10,13,14,M,1235
+2012,1801,Pavia,Pavia,45,11,13,9,9,17,F,2320
+2012,1801,Pavia,Pavia,45,11,13,9,9,17,M,1774
+2012,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,492
+2012,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,150
+2012,2201,Trento,Trento,46,4,7,11,7,22,F,1523
+2012,2201,Trento,Trento,46,4,7,11,7,22,M,1392
+2012,2301,Verona,Verona,45,26,40,10,59,56,F,2972
+2012,2301,Verona,Verona,45,26,40,10,59,56,M,1381
+2012,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,F,2555
+2012,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,M,1220
+2012,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,917
+2012,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,855
+2012,2801,Padova,Padova,45,24,33,11,52,23,F,6945
+2012,2801,Padova,Padova,45,24,33,11,52,23,M,4876
+2012,3001,Udine,Udine,46,3,57,13,14,15,F,1659
+2012,3001,Udine,Udine,46,3,57,13,14,15,M,1267
+2012,3201,Trieste,Trieste,45,38,58,13,46,20,F,2110
+2012,3201,Trieste,Trieste,45,38,58,13,46,20,M,1354
+2012,3401,Parma,Parma,44,48,6,10,19,44,F,2986
+2012,3401,Parma,Parma,44,48,6,10,19,44,M,2185
+2012,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2006
+2012,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1457
+2012,3701,Bologna,Bologna,44,29,44,11,20,48,F,8972
+2012,3701,Bologna,Bologna,44,29,44,11,20,48,M,6214
+2012,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1422
+2012,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1055
+2012,4101,Urbino,Urbino,43,43,36,12,38,11,F,1784
+2012,4101,Urbino,Urbino,43,43,36,12,38,11,M,838
+2012,4201,Marche,Ancona,43,37,15,13,30,51,F,1488
+2012,4201,Marche,Ancona,43,37,15,13,30,51,M,1676
+2012,4301,Macerata,Macerata,43,18,6,13,27,6,F,1318
+2012,4301,Macerata,Macerata,43,18,6,13,27,6,M,439
+2012,4302,Camerino,Camerino,43,8,13,13,4,9,F,571
+2012,4302,Camerino,Camerino,43,8,13,13,4,9,M,547
+2012,4801,Firenze,Firenze,43,46,28,11,15,29,F,5363
+2012,4801,Firenze,Firenze,43,46,28,11,15,29,M,3781
+2012,5001,Pisa,Pisa,43,42,51,10,24,1,F,3480
+2012,5001,Pisa,Pisa,43,42,51,10,24,1,M,3193
+2012,5201,Siena,Siena,43,19,11,11,19,59,F,1937
+2012,5201,Siena,Siena,43,19,11,11,19,59,M,1179
+2012,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,91
+2012,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,10
+2012,5401,Perugia,Perugia,43,6,49,12,23,23,F,2774
+2012,5401,Perugia,Perugia,43,6,49,12,23,23,M,1887
+2012,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,208
+2012,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,138
+2012,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,657
+2012,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,1017
+2012,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,12155
+2012,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7350
+2012,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2913
+2012,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2332
+2012,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,972
+2012,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,403
+2012,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1077
+2012,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1048
+2012,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,135
+2012,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,217
+2012,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3336
+2012,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2157
+2012,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,187
+2012,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,118
+2012,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,240
+2012,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,108
+2012,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,465
+2012,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,934
+2012,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,F,95
+2012,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,M,149
+2012,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,106
+2012,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,59
+2012,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,74
+2012,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,83
+2012,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,F,7
+2012,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,M,10
+2012,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,F,558
+2012,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,M,1024
+2012,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,F,2
+2012,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,M,3
+2012,6001,Cassino,Cassino,41,29,38,13,49,44,F,953
+2012,6001,Cassino,Cassino,41,29,38,13,49,44,M,632
+2012,6201,Sannio,Benevento ,41,7,55,14,46,40,F,451
+2012,6201,Sannio,Benevento ,41,7,55,14,46,40,M,400
+2012,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,30
+2012,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,77
+2012,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7243
+2012,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5512
+2012,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,909
+2012,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1105
+2012,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1386
+2012,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,348
+2012,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1615
+2012,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,287
+2012,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,2752
+2012,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,1756
+2012,6501,Salerno,Salerno,40,40,52,14,45,40,F,2826
+2012,6501,Salerno,Salerno,40,40,52,14,45,40,M,1668
+2012,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1770
+2012,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1384
+2012,6701,Teramo,Teramo,42,39,30,13,42,26,F,542
+2012,6701,Teramo,Teramo,42,39,30,13,42,26,M,440
+2012,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3567
+2012,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1580
+2012,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,36
+2012,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,23
+2012,7001,Molise,Campobasso,41,33,36,14,39,37,F,752
+2012,7001,Molise,Campobasso,41,33,36,14,39,37,M,467
+2012,7101,Foggia,Foggia,41,27,54,15,32,42,F,896
+2012,7101,Foggia,Foggia,41,27,54,15,32,42,M,498
+2012,7201,Bari,Bari,41,7,45,16,52,11,F,5361
+2012,7201,Bari,Bari,41,7,45,16,52,11,M,2480
+2012,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,520
+2012,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1099
+2012,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,100
+2012,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,117
+2012,7501,Salento,Lecce,40,21,10,18,10,27,F,2691
+2012,7501,Salento,Lecce,40,21,10,18,10,27,M,1123
+2012,7601,Basilicata,Potenza,40,38,20,15,48,12,F,568
+2012,7601,Basilicata,Potenza,40,38,20,15,48,12,M,343
+2012,7801,Calabria,Rende,39,20,0,16,10,56,F,2924
+2012,7801,Calabria,Rende,39,20,0,16,10,56,M,1792
+2012,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,833
+2012,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,455
+2012,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,464
+2012,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,514
+2012,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,51
+2012,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,16
+2012,8201,Palermo,Palermo,38,7,0,13,21,43,F,4766
+2012,8201,Palermo,Palermo,38,7,0,13,21,43,M,2914
+2012,8301,Messina,Messina,38,11,36,15,33,14,F,3095
+2012,8301,Messina,Messina,38,11,36,15,33,14,M,1702
+2012,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,668
+2012,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,289
+2012,8701,Catania,Catania,37,30,21,15,5,15,F,4782
+2012,8701,Catania,Catania,37,30,21,15,5,15,M,2892
+2012,9001,Sassari,Sassari,40,43,45,8,33,38,F,1491
+2012,9001,Sassari,Sassari,40,43,45,8,33,38,M,712
+2012,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,3117
+2012,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1693
+2013,101,Torino,Torino,45,3,58,7,40,56,F,7062
+2013,101,Torino,Torino,45,3,58,7,40,56,M,4317
+2013,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1779
+2013,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,3661
+2013,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1061
+2013,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,618
+2013,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,49
+2013,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,33
+2013,701,Aosta,Aosta,45,44,18,7,19,14,F,172
+2013,701,Aosta,Aosta,45,44,18,7,19,14,M,52
+2013,1001,Genova,Genova,44,24,17,8,56,8,F,3696
+2013,1001,Genova,Genova,44,24,17,8,56,8,M,2579
+2013,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,161
+2013,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,369
+2013,1202,Insubria,Como,45,48,25,9,5,17,F,927
+2013,1202,Insubria,Como,45,48,25,9,5,17,M,654
+2013,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,315
+2013,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,366
+2013,1501,Milano,Milano,45,27,57,9,11,24,F,6489
+2013,1501,Milano,Milano,45,27,57,9,11,24,M,3966
+2013,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3595
+2013,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6009
+2013,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2031
+2013,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2167
+2013,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6423
+2013,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,3097
+2013,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,717
+2013,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,262
+2013,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,316
+2013,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,158
+2013,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,3848
+2013,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,2017
+2013,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1740
+2013,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,938
+2013,1701,Brescia,Brescia,45,32,27,10,13,14,F,1166
+2013,1701,Brescia,Brescia,45,32,27,10,13,14,M,1182
+2013,1801,Pavia,Pavia,45,11,13,9,9,17,F,2544
+2013,1801,Pavia,Pavia,45,11,13,9,9,17,M,1830
+2013,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,531
+2013,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,180
+2013,2201,Trento,Trento,46,4,7,11,7,22,F,1692
+2013,2201,Trento,Trento,46,4,7,11,7,22,M,1536
+2013,2301,Verona,Verona,45,26,40,10,59,56,F,2964
+2013,2301,Verona,Verona,45,26,40,10,59,56,M,1369
+2013,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,F,2857
+2013,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,M,1326
+2013,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,843
+2013,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,810
+2013,2801,Padova,Padova,45,24,33,11,52,23,F,6889
+2013,2801,Padova,Padova,45,24,33,11,52,23,M,4854
+2013,3001,Udine,Udine,46,3,57,13,14,15,F,1756
+2013,3001,Udine,Udine,46,3,57,13,14,15,M,1234
+2013,3201,Trieste,Trieste,45,38,58,13,46,20,F,1994
+2013,3201,Trieste,Trieste,45,38,58,13,46,20,M,1273
+2013,3401,Parma,Parma,44,48,6,10,19,44,F,3088
+2013,3401,Parma,Parma,44,48,6,10,19,44,M,2256
+2013,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2090
+2013,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1527
+2013,3701,Bologna,Bologna,44,29,44,11,20,48,F,9444
+2013,3701,Bologna,Bologna,44,29,44,11,20,48,M,6403
+2013,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1752
+2013,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1198
+2013,4101,Urbino,Urbino,43,43,36,12,38,11,F,1661
+2013,4101,Urbino,Urbino,43,43,36,12,38,11,M,879
+2013,4201,Marche,Ancona,43,37,15,13,30,51,F,1462
+2013,4201,Marche,Ancona,43,37,15,13,30,51,M,1578
+2013,4301,Macerata,Macerata,43,18,6,13,27,6,F,1346
+2013,4301,Macerata,Macerata,43,18,6,13,27,6,M,423
+2013,4302,Camerino,Camerino,43,8,13,13,4,9,F,522
+2013,4302,Camerino,Camerino,43,8,13,13,4,9,M,516
+2013,4801,Firenze,Firenze,43,46,28,11,15,29,F,5173
+2013,4801,Firenze,Firenze,43,46,28,11,15,29,M,3077
+2013,5001,Pisa,Pisa,43,42,51,10,24,1,F,3561
+2013,5001,Pisa,Pisa,43,42,51,10,24,1,M,3201
+2013,5201,Siena,Siena,43,19,11,11,19,59,F,1981
+2013,5201,Siena,Siena,43,19,11,11,19,59,M,1269
+2013,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,112
+2013,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,14
+2013,5401,Perugia,Perugia,43,6,49,12,23,23,F,2761
+2013,5401,Perugia,Perugia,43,6,49,12,23,23,M,1830
+2013,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,117
+2013,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,60
+2013,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,669
+2013,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,726
+2013,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,11736
+2013,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7239
+2013,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,3041
+2013,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2427
+2013,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1081
+2013,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,436
+2013,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1212
+2013,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1027
+2013,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,150
+2013,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,277
+2013,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3540
+2013,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2279
+2013,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,213
+2013,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,131
+2013,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,266
+2013,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,103
+2013,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,543
+2013,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,988
+2013,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,F,114
+2013,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,M,137
+2013,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,133
+2013,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,88
+2013,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,81
+2013,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,105
+2013,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,F,2
+2013,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,M,24
+2013,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,F,758
+2013,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,M,1565
+2013,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,F,19
+2013,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,M,43
+2013,6001,Cassino,Cassino,41,29,38,13,49,44,F,802
+2013,6001,Cassino,Cassino,41,29,38,13,49,44,M,555
+2013,6201,Sannio,Benevento ,41,7,55,14,46,40,F,484
+2013,6201,Sannio,Benevento ,41,7,55,14,46,40,M,388
+2013,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,35
+2013,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,70
+2013,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7095
+2013,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5426
+2013,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1026
+2013,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1076
+2013,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1315
+2013,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,319
+2013,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1613
+2013,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,246
+2013,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,2698
+2013,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,1766
+2013,6501,Salerno,Salerno,40,40,52,14,45,40,F,2758
+2013,6501,Salerno,Salerno,40,40,52,14,45,40,M,1687
+2013,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1927
+2013,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1491
+2013,6701,Teramo,Teramo,42,39,30,13,42,26,F,608
+2013,6701,Teramo,Teramo,42,39,30,13,42,26,M,623
+2013,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3740
+2013,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1671
+2013,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,21
+2013,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,11
+2013,7001,Molise,Campobasso,41,33,36,14,39,37,F,755
+2013,7001,Molise,Campobasso,41,33,36,14,39,37,M,403
+2013,7101,Foggia,Foggia,41,27,54,15,32,42,F,963
+2013,7101,Foggia,Foggia,41,27,54,15,32,42,M,520
+2013,7201,Bari,Bari,41,7,45,16,52,11,F,5309
+2013,7201,Bari,Bari,41,7,45,16,52,11,M,2535
+2013,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,487
+2013,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1024
+2013,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,81
+2013,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,172
+2013,7501,Salento,Lecce,40,21,10,18,10,27,F,2455
+2013,7501,Salento,Lecce,40,21,10,18,10,27,M,1066
+2013,7601,Basilicata,Potenza,40,38,20,15,48,12,F,662
+2013,7601,Basilicata,Potenza,40,38,20,15,48,12,M,441
+2013,7801,Calabria,Rende,39,20,0,16,10,56,F,2914
+2013,7801,Calabria,Rende,39,20,0,16,10,56,M,1701
+2013,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,712
+2013,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,506
+2013,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,436
+2013,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,473
+2013,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,92
+2013,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,22
+2013,8201,Palermo,Palermo,38,7,0,13,21,43,F,5483
+2013,8201,Palermo,Palermo,38,7,0,13,21,43,M,3381
+2013,8301,Messina,Messina,38,11,36,15,33,14,F,3139
+2013,8301,Messina,Messina,38,11,36,15,33,14,M,1684
+2013,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,653
+2013,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,319
+2013,8701,Catania,Catania,37,30,21,15,5,15,F,4473
+2013,8701,Catania,Catania,37,30,21,15,5,15,M,2598
+2013,9001,Sassari,Sassari,40,43,45,8,33,38,F,1399
+2013,9001,Sassari,Sassari,40,43,45,8,33,38,M,680
+2013,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2761
+2013,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1552
+2014,101,Torino,Torino,45,3,58,7,40,56,F,6965
+2014,101,Torino,Torino,45,3,58,7,40,56,M,4111
+2014,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,2005
+2014,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,4178
+2014,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1012
+2014,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,558
+2014,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,41
+2014,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,33
+2014,701,Aosta,Aosta,45,44,18,7,19,14,F,147
+2014,701,Aosta,Aosta,45,44,18,7,19,14,M,46
+2014,1001,Genova,Genova,44,24,17,8,56,8,F,3672
+2014,1001,Genova,Genova,44,24,17,8,56,8,M,2563
+2014,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,191
+2014,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,310
+2014,1202,Insubria,Como,45,48,25,9,5,17,F,864
+2014,1202,Insubria,Como,45,48,25,9,5,17,M,634
+2014,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,427
+2014,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,382
+2014,1501,Milano,Milano,45,27,57,9,11,24,F,6674
+2014,1501,Milano,Milano,45,27,57,9,11,24,M,3982
+2014,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3763
+2014,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6229
+2014,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2107
+2014,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2178
+2014,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6439
+2014,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,3074
+2014,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,821
+2014,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,324
+2014,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,337
+2014,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,171
+2014,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,4178
+2014,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,2222
+2014,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1855
+2014,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,1088
+2014,1701,Brescia,Brescia,45,32,27,10,13,14,F,1146
+2014,1701,Brescia,Brescia,45,32,27,10,13,14,M,1133
+2014,1801,Pavia,Pavia,45,11,13,9,9,17,F,2571
+2014,1801,Pavia,Pavia,45,11,13,9,9,17,M,1864
+2014,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,452
+2014,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,178
+2014,2201,Trento,Trento,46,4,7,11,7,22,F,1852
+2014,2201,Trento,Trento,46,4,7,11,7,22,M,1615
+2014,2301,Verona,Verona,45,26,40,10,59,56,F,3094
+2014,2301,Verona,Verona,45,26,40,10,59,56,M,1418
+2014,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,F,2943
+2014,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,M,1263
+2014,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,796
+2014,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,736
+2014,2801,Padova,Padova,45,24,33,11,52,23,F,7065
+2014,2801,Padova,Padova,45,24,33,11,52,23,M,4924
+2014,3001,Udine,Udine,46,3,57,13,14,15,F,1704
+2014,3001,Udine,Udine,46,3,57,13,14,15,M,1233
+2014,3201,Trieste,Trieste,45,38,58,13,46,20,F,1972
+2014,3201,Trieste,Trieste,45,38,58,13,46,20,M,1283
+2014,3401,Parma,Parma,44,48,6,10,19,44,F,3062
+2014,3401,Parma,Parma,44,48,6,10,19,44,M,2122
+2014,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2091
+2014,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1617
+2014,3701,Bologna,Bologna,44,29,44,11,20,48,F,9835
+2014,3701,Bologna,Bologna,44,29,44,11,20,48,M,6763
+2014,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1736
+2014,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1158
+2014,4101,Urbino,Urbino,43,43,36,12,38,11,F,1733
+2014,4101,Urbino,Urbino,43,43,36,12,38,11,M,831
+2014,4201,Marche,Ancona,43,37,15,13,30,51,F,1478
+2014,4201,Marche,Ancona,43,37,15,13,30,51,M,1496
+2014,4301,Macerata,Macerata,43,18,6,13,27,6,F,1280
+2014,4301,Macerata,Macerata,43,18,6,13,27,6,M,379
+2014,4302,Camerino,Camerino,43,8,13,13,4,9,F,547
+2014,4302,Camerino,Camerino,43,8,13,13,4,9,M,505
+2014,4801,Firenze,Firenze,43,46,28,11,15,29,F,5130
+2014,4801,Firenze,Firenze,43,46,28,11,15,29,M,3162
+2014,5001,Pisa,Pisa,43,42,51,10,24,1,F,3452
+2014,5001,Pisa,Pisa,43,42,51,10,24,1,M,3104
+2014,5201,Siena,Siena,43,19,11,11,19,59,F,1699
+2014,5201,Siena,Siena,43,19,11,11,19,59,M,1127
+2014,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,135
+2014,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,31
+2014,5401,Perugia,Perugia,43,6,49,12,23,23,F,2683
+2014,5401,Perugia,Perugia,43,6,49,12,23,23,M,1860
+2014,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,191
+2014,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,74
+2014,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,618
+2014,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,676
+2014,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,11534
+2014,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7294
+2014,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2948
+2014,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2868
+2014,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,1113
+2014,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,378
+2014,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1174
+2014,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1145
+2014,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,145
+2014,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,267
+2014,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3592
+2014,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2259
+2014,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,231
+2014,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,145
+2014,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,242
+2014,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,120
+2014,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,549
+2014,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,957
+2014,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,F,157
+2014,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,M,177
+2014,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,166
+2014,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,75
+2014,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,163
+2014,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,267
+2014,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,F,8
+2014,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,M,24
+2014,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,F,838
+2014,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,M,1525
+2014,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,F,27
+2014,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,M,39
+2014,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,F,50
+2014,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,M,84
+2014,6001,Cassino,Cassino,41,29,38,13,49,44,F,792
+2014,6001,Cassino,Cassino,41,29,38,13,49,44,M,540
+2014,6201,Sannio,Benevento ,41,7,55,14,46,40,F,471
+2014,6201,Sannio,Benevento ,41,7,55,14,46,40,M,372
+2014,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,54
+2014,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,76
+2014,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7330
+2014,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5275
+2014,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1186
+2014,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1348
+2014,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1327
+2014,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,321
+2014,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1592
+2014,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,240
+2014,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,2749
+2014,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,1714
+2014,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,F,251
+2014,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,M,677
+2014,6501,Salerno,Salerno,40,40,52,14,45,40,F,3089
+2014,6501,Salerno,Salerno,40,40,52,14,45,40,M,1676
+2014,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1911
+2014,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1399
+2014,6701,Teramo,Teramo,42,39,30,13,42,26,F,577
+2014,6701,Teramo,Teramo,42,39,30,13,42,26,M,411
+2014,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3808
+2014,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1615
+2014,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,4
+2014,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,2
+2014,7001,Molise,Campobasso,41,33,36,14,39,37,F,718
+2014,7001,Molise,Campobasso,41,33,36,14,39,37,M,435
+2014,7101,Foggia,Foggia,41,27,54,15,32,42,F,915
+2014,7101,Foggia,Foggia,41,27,54,15,32,42,M,536
+2014,7201,Bari,Bari,41,7,45,16,52,11,F,5245
+2014,7201,Bari,Bari,41,7,45,16,52,11,M,2412
+2014,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,572
+2014,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1111
+2014,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,95
+2014,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,165
+2014,7501,Salento,Lecce,40,21,10,18,10,27,F,2363
+2014,7501,Salento,Lecce,40,21,10,18,10,27,M,1011
+2014,7601,Basilicata,Potenza,40,38,20,15,48,12,F,620
+2014,7601,Basilicata,Potenza,40,38,20,15,48,12,M,394
+2014,7801,Calabria,Rende,39,20,0,16,10,56,F,3000
+2014,7801,Calabria,Rende,39,20,0,16,10,56,M,1757
+2014,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,773
+2014,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,415
+2014,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,499
+2014,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,557
+2014,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,134
+2014,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,18
+2014,8201,Palermo,Palermo,38,7,0,13,21,43,F,4871
+2014,8201,Palermo,Palermo,38,7,0,13,21,43,M,2902
+2014,8301,Messina,Messina,38,11,36,15,33,14,F,2791
+2014,8301,Messina,Messina,38,11,36,15,33,14,M,1470
+2014,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,655
+2014,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,360
+2014,8701,Catania,Catania,37,30,21,15,5,15,F,4359
+2014,8701,Catania,Catania,37,30,21,15,5,15,M,2616
+2014,9001,Sassari,Sassari,40,43,45,8,33,38,F,1420
+2014,9001,Sassari,Sassari,40,43,45,8,33,38,M,655
+2014,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2468
+2014,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1530
+2015,101,Torino,Torino,45,3,58,7,40,56,F,7228
+2015,101,Torino,Torino,45,3,58,7,40,56,M,4199
+2015,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1934
+2015,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,4480
+2015,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1124
+2015,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,633
+2015,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,39
+2015,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,32
+2015,701,Aosta,Aosta,45,44,18,7,19,14,F,137
+2015,701,Aosta,Aosta,45,44,18,7,19,14,M,46
+2015,1001,Genova,Genova,44,24,17,8,56,8,F,3403
+2015,1001,Genova,Genova,44,24,17,8,56,8,M,2509
+2015,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,216
+2015,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,319
+2015,1202,Insubria,Como,45,48,25,9,5,17,F,904
+2015,1202,Insubria,Como,45,48,25,9,5,17,M,660
+2015,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,507
+2015,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,404
+2015,1501,Milano,Milano,45,27,57,9,11,24,F,6640
+2015,1501,Milano,Milano,45,27,57,9,11,24,M,4226
+2015,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3832
+2015,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6566
+2015,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2146
+2015,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2232
+2015,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6136
+2015,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,3066
+2015,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,822
+2015,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,311
+2015,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,284
+2015,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,160
+2015,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,4208
+2015,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,2234
+2015,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1836
+2015,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,1028
+2015,1701,Brescia,Brescia,45,32,27,10,13,14,F,1238
+2015,1701,Brescia,Brescia,45,32,27,10,13,14,M,1241
+2015,1801,Pavia,Pavia,45,11,13,9,9,17,F,2632
+2015,1801,Pavia,Pavia,45,11,13,9,9,17,M,1953
+2015,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,292
+2015,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,161
+2015,2201,Trento,Trento,46,4,7,11,7,22,F,1863
+2015,2201,Trento,Trento,46,4,7,11,7,22,M,1662
+2015,2301,Verona,Verona,45,26,40,10,59,56,F,2987
+2015,2301,Verona,Verona,45,26,40,10,59,56,M,1432
+2015,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,F,3161
+2015,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,M,1463
+2015,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,740
+2015,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,683
+2015,2801,Padova,Padova,45,24,33,11,52,23,F,6339
+2015,2801,Padova,Padova,45,24,33,11,52,23,M,4882
+2015,3001,Udine,Udine,46,3,57,13,14,15,F,1676
+2015,3001,Udine,Udine,46,3,57,13,14,15,M,1204
+2015,3201,Trieste,Trieste,45,38,58,13,46,20,F,1887
+2015,3201,Trieste,Trieste,45,38,58,13,46,20,M,1290
+2015,3401,Parma,Parma,44,48,6,10,19,44,F,2786
+2015,3401,Parma,Parma,44,48,6,10,19,44,M,2002
+2015,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2208
+2015,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1619
+2015,3701,Bologna,Bologna,44,29,44,11,20,48,F,9847
+2015,3701,Bologna,Bologna,44,29,44,11,20,48,M,6901
+2015,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1713
+2015,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1284
+2015,4101,Urbino,Urbino,43,43,36,12,38,11,F,1552
+2015,4101,Urbino,Urbino,43,43,36,12,38,11,M,806
+2015,4201,Marche,Ancona,43,37,15,13,30,51,F,1484
+2015,4201,Marche,Ancona,43,37,15,13,30,51,M,1602
+2015,4301,Macerata,Macerata,43,18,6,13,27,6,F,1248
+2015,4301,Macerata,Macerata,43,18,6,13,27,6,M,432
+2015,4302,Camerino,Camerino,43,8,13,13,4,9,F,629
+2015,4302,Camerino,Camerino,43,8,13,13,4,9,M,585
+2015,4801,Firenze,Firenze,43,46,28,11,15,29,F,4972
+2015,4801,Firenze,Firenze,43,46,28,11,15,29,M,2946
+2015,5001,Pisa,Pisa,43,42,51,10,24,1,F,3694
+2015,5001,Pisa,Pisa,43,42,51,10,24,1,M,3238
+2015,5201,Siena,Siena,43,19,11,11,19,59,F,1742
+2015,5201,Siena,Siena,43,19,11,11,19,59,M,1138
+2015,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,185
+2015,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,35
+2015,5401,Perugia,Perugia,43,6,49,12,23,23,F,2495
+2015,5401,Perugia,Perugia,43,6,49,12,23,23,M,1887
+2015,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,171
+2015,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,83
+2015,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,648
+2015,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,611
+2015,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,10936
+2015,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7173
+2015,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,2967
+2015,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2697
+2015,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,866
+2015,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,375
+2015,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1082
+2015,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1046
+2015,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,170
+2015,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,299
+2015,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3678
+2015,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2392
+2015,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,221
+2015,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,125
+2015,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,241
+2015,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,90
+2015,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,639
+2015,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,881
+2015,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,F,145
+2015,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,M,164
+2015,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,108
+2015,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,47
+2015,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,193
+2015,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,324
+2015,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,F,10
+2015,5814,Roma  Mercatorum,Reggio ,43,41,1,11,32,10,M,8
+2015,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,F,897
+2015,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,M,1439
+2015,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,F,57
+2015,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,M,88
+2015,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,F,27
+2015,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,M,60
+2015,6001,Cassino,Cassino,41,29,38,13,49,44,F,805
+2015,6001,Cassino,Cassino,41,29,38,13,49,44,M,568
+2015,6201,Sannio,Benevento ,41,7,55,14,46,40,F,509
+2015,6201,Sannio,Benevento ,41,7,55,14,46,40,M,416
+2015,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,54
+2015,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,99
+2015,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7321
+2015,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5448
+2015,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,963
+2015,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1199
+2015,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1286
+2015,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,314
+2015,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1328
+2015,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,218
+2015,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,2672
+2015,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,1763
+2015,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,F,279
+2015,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,M,747
+2015,6501,Salerno,Salerno,40,40,52,14,45,40,F,2954
+2015,6501,Salerno,Salerno,40,40,52,14,45,40,M,1715
+2015,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1939
+2015,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1461
+2015,6701,Teramo,Teramo,42,39,30,13,42,26,F,567
+2015,6701,Teramo,Teramo,42,39,30,13,42,26,M,414
+2015,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3694
+2015,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1646
+2015,7001,Molise,Campobasso,41,33,36,14,39,37,F,645
+2015,7001,Molise,Campobasso,41,33,36,14,39,37,M,395
+2015,7101,Foggia,Foggia,41,27,54,15,32,42,F,906
+2015,7101,Foggia,Foggia,41,27,54,15,32,42,M,522
+2015,7201,Bari,Bari,41,7,45,16,52,11,F,4904
+2015,7201,Bari,Bari,41,7,45,16,52,11,M,2381
+2015,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,558
+2015,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1094
+2015,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,128
+2015,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,200
+2015,7501,Salento,Lecce,40,21,10,18,10,27,F,2288
+2015,7501,Salento,Lecce,40,21,10,18,10,27,M,979
+2015,7601,Basilicata,Potenza,40,38,20,15,48,12,F,507
+2015,7601,Basilicata,Potenza,40,38,20,15,48,12,M,344
+2015,7801,Calabria,Rende,39,20,0,16,10,56,F,2795
+2015,7801,Calabria,Rende,39,20,0,16,10,56,M,1687
+2015,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,658
+2015,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,424
+2015,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,498
+2015,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,509
+2015,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,124
+2015,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,26
+2015,8201,Palermo,Palermo,38,7,0,13,21,43,F,4789
+2015,8201,Palermo,Palermo,38,7,0,13,21,43,M,2899
+2015,8301,Messina,Messina,38,11,36,15,33,14,F,2916
+2015,8301,Messina,Messina,38,11,36,15,33,14,M,1398
+2015,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,662
+2015,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,384
+2015,8701,Catania,Catania,37,30,21,15,5,15,F,4280
+2015,8701,Catania,Catania,37,30,21,15,5,15,M,2542
+2015,9001,Sassari,Sassari,40,43,45,8,33,38,F,1372
+2015,9001,Sassari,Sassari,40,43,45,8,33,38,M,715
+2015,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2445
+2015,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1445
+2016,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,320
+2016,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,207
+2016,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,324
+2016,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1106
+2016,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5375
+2016,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,121
+2016,6201,Sannio,Benevento ,41,7,55,14,46,40,M,430
+2016,6001,Cassino,Cassino,41,29,38,13,49,44,M,558
+2016,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,M,190
+2016,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,3003
+2016,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,M,1490
+2016,6501,Salerno,Salerno,40,40,52,14,45,40,M,1884
+2016,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,54
+2016,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,M,190
+2016,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,916
+2016,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,85
+2016,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,148
+2016,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2448
+2016,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,326
+2016,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1173
+2016,9001,Sassari,Sassari,40,43,45,8,33,38,M,668
+2016,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,M,134
+2016,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,163
+2016,101,Torino,Torino,45,3,58,7,40,56,M,4621
+2016,8701,Catania,Catania,37,30,21,15,5,15,M,2468
+2016,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,395
+2016,8301,Messina,Messina,38,11,36,15,33,14,M,1473
+2016,8201,Palermo,Palermo,38,7,0,13,21,43,M,2861
+2016,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,31
+2016,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,536
+2016,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,463
+2016,7801,Calabria,Rende,39,20,0,16,10,56,M,1651
+2016,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,1886
+2016,7501,Salento,Lecce,40,21,10,18,10,27,M,1081
+2016,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,M,2676
+2016,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1346
+2016,7201,Bari,Bari,41,7,45,16,52,11,M,2654
+2016,7101,Foggia,Foggia,41,27,54,15,32,42,M,530
+2016,7001,Molise,Campobasso,41,33,36,14,39,37,M,416
+2016,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,20
+2016,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1600
+2016,6701,Teramo,Teramo,42,39,30,13,42,26,M,420
+2016,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1467
+2016,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7333
+2016,7601,Basilicata,Potenza,40,38,20,15,48,12,M,372
+2016,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,6683
+2016,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,158
+2016,1801,Pavia,Pavia,45,11,13,9,9,17,M,1878
+2016,1701,Brescia,Brescia,45,32,27,10,13,14,M,1277
+2016,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,1049
+2016,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,M,3
+2016,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,2414
+2016,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,167
+2016,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,325
+2016,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,359
+2016,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2354
+2016,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,M,1554
+2016,1501,Milano,Milano,45,27,57,9,11,24,M,4445
+2016,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,421
+2016,1202,Insubria,Como,45,48,25,9,5,17,M,626
+2016,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,395
+2016,1001,Genova,Genova,44,24,17,8,56,8,M,2572
+2016,701,Aosta,Aosta,45,44,18,7,19,14,M,44
+2016,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,25
+2016,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,657
+2016,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,4396
+2016,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,3197
+2016,4101,Urbino,Urbino,43,43,36,12,38,11,M,868
+2016,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,639
+2016,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,69
+2016,5401,Perugia,Perugia,43,6,49,12,23,23,M,1847
+2016,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,41
+2016,5201,Siena,Siena,43,19,11,11,19,59,M,1149
+2016,5001,Pisa,Pisa,43,42,51,10,24,1,M,3338
+2016,4804,Firenze IUL,Firenze,43,46,28,11,15,29,M,1
+2016,4801,Firenze,Firenze,43,46,28,11,15,29,M,3255
+2016,4302,Camerino,Camerino,43,8,13,13,4,9,M,522
+2016,2201,Trento,Trento,46,4,7,11,7,22,M,1773
+2016,4201,Marche,Ancona,43,37,15,13,30,51,M,1557
+2016,2301,Verona,Verona,45,26,40,10,59,56,M,1433
+2016,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1217
+2016,3701,Bologna,Bologna,44,29,44,11,20,48,M,7112
+2016,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1780
+2016,3401,Parma,Parma,44,48,6,10,19,44,M,1945
+2016,3201,Trieste,Trieste,45,38,58,13,46,20,M,1266
+2016,3001,Udine,Udine,46,3,57,13,14,15,M,1397
+2016,2801,Padova,Padova,45,24,33,11,52,23,M,5308
+2016,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,632
+2016,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1478
+2016,4301,Macerata,Macerata,43,18,6,13,27,6,M,439
+2016,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,250
+2016,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1319
+2016,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1309
+2016,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1087
+2016,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7238
+2016,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,77
+2016,6201,Sannio,Benevento ,41,7,55,14,46,40,F,465
+2016,6001,Cassino,Cassino,41,29,38,13,49,44,F,853
+2016,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,F,89
+2016,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,3023
+2016,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,F,1030
+2016,6501,Salerno,Salerno,40,40,52,14,45,40,F,3078
+2016,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,118
+2016,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,F,153
+2016,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,710
+2016,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,304
+2016,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,296
+2016,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3740
+2016,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,181
+2016,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1155
+2016,101,Torino,Torino,45,3,58,7,40,56,F,7594
+2016,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,F,99
+2016,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,102
+2016,9001,Sassari,Sassari,40,43,45,8,33,38,F,1274
+2016,8701,Catania,Catania,37,30,21,15,5,15,F,3984
+2016,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,699
+2016,8301,Messina,Messina,38,11,36,15,33,14,F,2892
+2016,8201,Palermo,Palermo,38,7,0,13,21,43,F,4695
+2016,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,185
+2016,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,437
+2016,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,788
+2016,7801,Calabria,Rende,39,20,0,16,10,56,F,2745
+2016,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,2844
+2016,7501,Salento,Lecce,40,21,10,18,10,27,F,2234
+2016,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,F,1498
+2016,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,711
+2016,7201,Bari,Bari,41,7,45,16,52,11,F,4869
+2016,7101,Foggia,Foggia,41,27,54,15,32,42,F,990
+2016,7001,Molise,Campobasso,41,33,36,14,39,37,F,663
+2016,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,17
+2016,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3599
+2016,6701,Teramo,Teramo,42,39,30,13,42,26,F,540
+2016,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,2257
+2016,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,10827
+2016,7601,Basilicata,Potenza,40,38,20,15,48,12,F,469
+2016,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,3824
+2016,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,365
+2016,1801,Pavia,Pavia,45,11,13,9,9,17,F,2478
+2016,1701,Brescia,Brescia,45,32,27,10,13,14,F,1231
+2016,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,1956
+2016,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,F,4
+2016,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,4262
+2016,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,327
+2016,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,785
+2016,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,931
+2016,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2260
+2016,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,F,3229
+2016,1501,Milano,Milano,45,27,57,9,11,24,F,7033
+2016,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,478
+2016,1202,Insubria,Como,45,48,25,9,5,17,F,868
+2016,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,220
+2016,1001,Genova,Genova,44,24,17,8,56,8,F,3392
+2016,701,Aosta,Aosta,45,44,18,7,19,14,F,145
+2016,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,49
+2016,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1118
+2016,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,1917
+2016,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6133
+2016,4101,Urbino,Urbino,43,43,36,12,38,11,F,1644
+2016,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,597
+2016,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,156
+2016,5401,Perugia,Perugia,43,6,49,12,23,23,F,2616
+2016,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,255
+2016,5201,Siena,Siena,43,19,11,11,19,59,F,1746
+2016,5001,Pisa,Pisa,43,42,51,10,24,1,F,3607
+2016,4804,Firenze IUL,Firenze,43,46,28,11,15,29,F,3
+2016,4801,Firenze,Firenze,43,46,28,11,15,29,F,4972
+2016,4302,Camerino,Camerino,43,8,13,13,4,9,F,556
+2016,2201,Trento,Trento,46,4,7,11,7,22,F,1803
+2016,4201,Marche,Ancona,43,37,15,13,30,51,F,1403
+2016,2301,Verona,Verona,45,26,40,10,59,56,F,2929
+2016,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1629
+2016,3701,Bologna,Bologna,44,29,44,11,20,48,F,10028
+2016,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2271
+2016,3401,Parma,Parma,44,48,6,10,19,44,F,2590
+2016,3201,Trieste,Trieste,45,38,58,13,46,20,F,1852
+2016,3001,Udine,Udine,46,3,57,13,14,15,F,1624
+2016,2801,Padova,Padova,45,24,33,11,52,23,F,6943
+2016,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,682
+2016,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2423
+2016,4301,Macerata,Macerata,43,18,6,13,27,6,F,1300
+2017,101,Torino,Torino,45,3,58,7,40,56,F,7717
+2017,101,Torino,Torino,45,3,58,7,40,56,M,4656
+2017,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,2073
+2017,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,4600
+2017,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1165
+2017,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,659
+2017,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,F,53
+2017,401,Bra - Scienze Gastronomiche,Bra,44,41,55,7,51,23,M,52
+2017,701,Aosta,Aosta,45,44,18,7,19,14,F,187
+2017,701,Aosta,Aosta,45,44,18,7,19,14,M,69
+2017,1001,Genova,Genova,44,24,17,8,56,8,F,3309
+2017,1001,Genova,Genova,44,24,17,8,56,8,M,2461
+2017,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,222
+2017,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,371
+2017,1202,Insubria,Como,45,48,25,9,5,17,F,977
+2017,1202,Insubria,Como,45,48,25,9,5,17,M,650
+2017,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,F,859
+2017,1301,Novedrate e-Campus,Napoli ,40,51,14,14,15,2,M,817
+2017,1501,Milano,Milano,45,27,57,9,11,24,F,7114
+2017,1501,Milano,Milano,45,27,57,9,11,24,M,4321
+2017,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,4036
+2017,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,7004
+2017,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2179
+2017,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2321
+2017,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6565
+2017,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,3395
+2017,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,955
+2017,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,307
+2017,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,334
+2017,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,195
+2017,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,4274
+2017,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,2404
+2017,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,F,12
+2017,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,M,3
+2017,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,2110
+2017,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,1047
+2017,1701,Brescia,Brescia,45,32,27,10,13,14,F,1271
+2017,1701,Brescia,Brescia,45,32,27,10,13,14,M,1361
+2017,1801,Pavia,Pavia,45,11,13,9,9,17,F,2524
+2017,1801,Pavia,Pavia,45,11,13,9,9,17,M,1893
+2017,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,431
+2017,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,177
+2017,2201,Trento,Trento,46,4,7,11,7,22,F,1838
+2017,2201,Trento,Trento,46,4,7,11,7,22,M,1689
+2017,2301,Verona,Verona,45,26,40,10,59,56,F,3202
+2017,2301,Verona,Verona,45,26,40,10,59,56,M,1609
+2017,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,F,3199
+2017,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,M,1530
+2017,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,703
+2017,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,592
+2017,2801,Padova,Padova,45,24,33,11,52,23,F,7207
+2017,2801,Padova,Padova,45,24,33,11,52,23,M,5481
+2017,3001,Udine,Udine,46,3,57,13,14,15,F,1579
+2017,3001,Udine,Udine,46,3,57,13,14,15,M,1248
+2017,3201,Trieste,Trieste,45,38,58,13,46,20,F,1674
+2017,3201,Trieste,Trieste,45,38,58,13,46,20,M,1164
+2017,3401,Parma,Parma,44,48,6,10,19,44,F,2608
+2017,3401,Parma,Parma,44,48,6,10,19,44,M,1976
+2017,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2442
+2017,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,1780
+2017,3701,Bologna,Bologna,44,29,44,11,20,48,F,10299
+2017,3701,Bologna,Bologna,44,29,44,11,20,48,M,7607
+2017,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1692
+2017,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1283
+2017,4101,Urbino,Urbino,43,43,36,12,38,11,F,1558
+2017,4101,Urbino,Urbino,43,43,36,12,38,11,M,827
+2017,4201,Marche,Ancona,43,37,15,13,30,51,F,1429
+2017,4201,Marche,Ancona,43,37,15,13,30,51,M,1548
+2017,4301,Macerata,Macerata,43,18,6,13,27,6,F,1493
+2017,4301,Macerata,Macerata,43,18,6,13,27,6,M,479
+2017,4302,Camerino,Camerino,43,8,13,13,4,9,F,524
+2017,4302,Camerino,Camerino,43,8,13,13,4,9,M,496
+2017,4801,Firenze,Firenze,43,46,28,11,15,29,F,4747
+2017,4801,Firenze,Firenze,43,46,28,11,15,29,M,3139
+2017,4804,Firenze IUL,Firenze,43,46,28,11,15,29,F,21
+2017,5001,Pisa,Pisa,43,42,51,10,24,1,F,3659
+2017,5001,Pisa,Pisa,43,42,51,10,24,1,M,3383
+2017,5201,Siena,Siena,43,19,11,11,19,59,F,1614
+2017,5201,Siena,Siena,43,19,11,11,19,59,M,1161
+2017,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,256
+2017,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,43
+2017,5401,Perugia,Perugia,43,6,49,12,23,23,F,2404
+2017,5401,Perugia,Perugia,43,6,49,12,23,23,M,1761
+2017,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,138
+2017,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,79
+2017,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,592
+2017,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,737
+2017,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,10986
+2017,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7406
+2017,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,3039
+2017,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2886
+2017,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,928
+2017,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,345
+2017,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1114
+2017,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1279
+2017,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,167
+2017,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,343
+2017,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3886
+2017,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2440
+2017,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,258
+2017,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,148
+2017,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,353
+2017,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,90
+2017,5810,Roma Marconi,Roma ,41,54,27,12,29,24,F,694
+2017,5810,Roma Marconi,Roma ,41,54,27,12,29,24,M,765
+2017,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,F,133
+2017,5811,Roma UNITELMA,Roma ,41,54,27,12,29,24,M,176
+2017,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,144
+2017,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,71
+2017,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,F,182
+2017,5813,Roma UNINETTUNO,Roma ,41,54,27,12,29,24,M,299
+2017,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,F,1410
+2017,5815,Roma UNICUSANO,Roma ,41,54,27,12,29,24,M,1807
+2017,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,F,140
+2017,5816,Roma San Raffaele,Roma ,41,54,27,12,29,24,M,192
+2017,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,F,147
+2017,5817,Roma - Link Campus,Reggio ,43,41,1,11,32,10,M,291
+2017,6001,Cassino,Cassino,41,29,38,13,49,44,F,721
+2017,6001,Cassino,Cassino,41,29,38,13,49,44,M,558
+2017,6201,Sannio,Benevento ,41,7,55,14,46,40,F,464
+2017,6201,Sannio,Benevento ,41,7,55,14,46,40,M,397
+2017,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,F,92
+2017,6202,Benevento - Giustino Fortunato,Potenza,40,38,20,15,48,12,M,148
+2017,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7274
+2017,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5593
+2017,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1010
+2017,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1258
+2017,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1534
+2017,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,341
+2017,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1530
+2017,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,224
+2017,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,2846
+2017,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,1856
+2017,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,F,2163
+2017,6307,Napoli Pegaso,Napoli ,40,51,14,14,15,2,M,3321
+2017,6501,Salerno,Salerno,40,40,52,14,45,40,F,3199
+2017,6501,Salerno,Salerno,40,40,52,14,45,40,M,2018
+2017,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,2018
+2017,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1444
+2017,6701,Teramo,Teramo,42,39,30,13,42,26,F,595
+2017,6701,Teramo,Teramo,42,39,30,13,42,26,M,420
+2017,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3391
+2017,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1580
+2017,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,F,16
+2017,6902,Torrevecchia Teatina - Leonardo da Vinci,Torino ,45,3,58,7,40,56,M,12
+2017,7001,Molise,Campobasso,41,33,36,14,39,37,F,634
+2017,7001,Molise,Campobasso,41,33,36,14,39,37,M,422
+2017,7101,Foggia,Foggia,41,27,54,15,32,42,F,969
+2017,7101,Foggia,Foggia,41,27,54,15,32,42,M,541
+2017,7201,Bari,Bari,41,7,45,16,52,11,F,4909
+2017,7201,Bari,Bari,41,7,45,16,52,11,M,2642
+2017,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,663
+2017,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1292
+2017,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,104
+2017,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,160
+2017,7501,Salento,Lecce,40,21,10,18,10,27,F,2094
+2017,7501,Salento,Lecce,40,21,10,18,10,27,M,1025
+2017,7601,Basilicata,Potenza,40,38,20,15,48,12,F,495
+2017,7601,Basilicata,Potenza,40,38,20,15,48,12,M,372
+2017,7801,Calabria,Rende,39,20,0,16,10,56,F,2689
+2017,7801,Calabria,Rende,39,20,0,16,10,56,M,1792
+2017,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,946
+2017,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,603
+2017,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,441
+2017,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,487
+2017,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,177
+2017,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,41
+2017,8201,Palermo,Palermo,38,7,0,13,21,43,F,4418
+2017,8201,Palermo,Palermo,38,7,0,13,21,43,M,2820
+2017,8301,Messina,Messina,38,11,36,15,33,14,F,2422
+2017,8301,Messina,Messina,38,11,36,15,33,14,M,1263
+2017,8601,Enna - KORE,Enna ,37,34,4,14,16,33,F,751
+2017,8601,Enna - KORE,Enna ,37,34,4,14,16,33,M,400
+2017,8701,Catania,Catania,37,30,21,15,5,15,F,3907
+2017,8701,Catania,Catania,37,30,21,15,5,15,M,2534
+2017,9001,Sassari,Sassari,40,43,45,8,33,38,F,1318
+2017,9001,Sassari,Sassari,40,43,45,8,33,38,M,721
+2017,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2433
+2017,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1545
+2018,101,Torino,Torino,45,3,58,7,40,56,M,4902
+2018,101,Torino,Torino,45,3,58,7,40,56,F,8023
+2018,102,Torino Politecnico,Torino ,45,3,58,7,40,56,F,2214
+2018,102,Torino Politecnico,Torino ,45,3,58,7,40,56,M,5014
+2018,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,F,1262
+2018,201,Piemonte Orientale,Vercelli,45,19,33,8,25,21,M,759
+2018,401,Bra Scienze Gastronomiche,Bra ,44,41,55,7,51,23,F,30
+2018,401,Bra Scienze Gastronomiche,Bra ,44,41,55,7,51,23,M,33
+2018,701,Aosta,Aosta,45,44,18,7,19,14,F,168
+2018,701,Aosta,Aosta,45,44,18,7,19,14,M,57
+2018,1001,Genova,Genova,44,24,17,8,56,8,F,3424
+2018,1001,Genova,Genova,44,24,17,8,56,8,M,2602
+2018,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,M,453
+2018,1201,Castellanza LIUC,Castellanza ,45,36,46,8,54,3,F,287
+2018,1202,Insubria,Como,45,48,25,9,5,17,F,1032
+2018,1202,Insubria,Como,45,48,25,9,5,17,M,722
+2018,1301,Novedrate e-Campus - telematica,Novedrate ,45,42,1,9,7,19,F,1177
+2018,1301,Novedrate e-Campus - telematica,Novedrate ,45,42,1,9,7,19,M,999
+2018,1501,Milano,Milano,45,27,57,9,11,24,F,7124
+2018,1501,Milano,Milano,45,27,57,9,11,24,M,4499
+2018,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,M,7307
+2018,1502,Milano Politecnico,Milano ,45,27,57,9,11,24,F,4396
+2018,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,M,2421
+2018,1503,Milano Bocconi,Milano ,45,27,57,9,11,24,F,2120
+2018,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,F,6394
+2018,1504,Milano Cattolica,Milano ,45,27,57,9,11,24,M,3440
+2018,1505,Milano IULM,Milano ,45,27,57,9,11,24,F,1048
+2018,1505,Milano IULM,Milano ,45,27,57,9,11,24,M,374
+2018,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,F,356
+2018,1508,Milano San Raffaele,Milano ,45,27,57,9,11,24,M,228
+2018,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,F,4478
+2018,1509,Milano Bicocca,Milano ,45,27,57,9,11,24,M,2582
+2018,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,F,19
+2018,1510,Rozzano (MI) Humanitas University,Rozzano ,45,22,37,9,8,47,M,3
+2018,1601,Bergamo,Bergamo,45,42,1,9,40,8,M,1154
+2018,1601,Bergamo,Bergamo,45,42,1,9,40,8,F,2374
+2018,1701,Brescia,Brescia,45,32,27,10,13,14,F,1196
+2018,1701,Brescia,Brescia,45,32,27,10,13,14,M,1308
+2018,1801,Pavia,Pavia,45,11,13,9,9,17,F,2566
+2018,1801,Pavia,Pavia,45,11,13,9,9,17,M,1891
+2018,2101,Bolzano,Bolzano,46,29,56,11,21,15,F,485
+2018,2101,Bolzano,Bolzano,46,29,56,11,21,15,M,215
+2018,2201,Trento,Trento,46,4,7,11,7,22,F,1899
+2018,2201,Trento,Trento,46,4,7,11,7,22,M,1804
+2018,2301,Verona,Verona,45,26,40,10,59,56,F,3281
+2018,2301,Verona,Verona,45,26,40,10,59,56,M,1604
+2018,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,F,3522
+2018,2701,Venezia CÃ  Foscari,Venezia ,45,26,17,12,19,39,M,1621
+2018,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,F,650
+2018,2702,Venezia Iuav,Venezia ,45,26,17,12,19,39,M,602
+2018,2801,Padova,Padova,45,24,33,11,52,23,F,6893
+2018,2801,Padova,Padova,45,24,33,11,52,23,M,5720
+2018,3001,Udine,Udine,46,3,57,13,14,15,F,1568
+2018,3001,Udine,Udine,46,3,57,13,14,15,M,1372
+2018,3201,Trieste,Trieste,45,38,58,13,46,20,M,1240
+2018,3201,Trieste,Trieste,45,38,58,13,46,20,F,1714
+2018,3401,Parma,Parma,44,48,6,10,19,44,F,2656
+2018,3401,Parma,Parma,44,48,6,10,19,44,M,1889
+2018,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,F,2516
+2018,3601,Modena e Reggio Emilia,Modena ,44,38,53,10,55,29,M,2122
+2018,3701,Bologna,Bologna,44,29,44,11,20,48,F,10301
+2018,3701,Bologna,Bologna,44,29,44,11,20,48,M,7933
+2018,3801,Ferrara,Ferrara,44,50,31,11,37,0,F,1800
+2018,3801,Ferrara,Ferrara,44,50,31,11,37,0,M,1279
+2018,4101,Urbino,Urbino,43,43,36,12,38,11,F,1645
+2018,4101,Urbino,Urbino,43,43,36,12,38,11,M,958
+2018,4201,Marche,Ancona,43,37,15,13,30,51,F,1485
+2018,4201,Marche,Ancona,43,37,15,13,30,51,M,1554
+2018,4301,Macerata,Macerata,43,18,6,13,27,6,F,1469
+2018,4301,Macerata,Macerata,43,18,6,13,27,6,M,460
+2018,4302,Camerino,Camerino,43,8,13,13,4,9,F,494
+2018,4302,Camerino,Camerino,43,8,13,13,4,9,M,448
+2018,4801,Firenze,Firenze,43,46,28,11,15,29,F,5346
+2018,4801,Firenze,Firenze,43,46,28,11,15,29,M,3459
+2018,4804,Firenze IUL - telematica,Firenze ,43,46,28,11,15,29,F,34
+2018,4804,Firenze IUL - telematica,Firenze ,43,46,28,11,15,29,M,9
+2018,5001,Pisa,Pisa,43,42,51,10,24,1,M,3026
+2018,5001,Pisa,Pisa,43,42,51,10,24,1,F,3160
+2018,5201,Siena,Siena,43,19,11,11,19,59,F,1637
+2018,5201,Siena,Siena,43,19,11,11,19,59,M,1107
+2018,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,F,308
+2018,5202,Siena Stranieri,Siena ,43,19,11,11,19,59,M,65
+2018,5401,Perugia,Perugia,43,6,49,12,23,23,F,2558
+2018,5401,Perugia,Perugia,43,6,49,12,23,23,M,1731
+2018,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,F,140
+2018,5403,Perugia Stranieri,Perugia ,43,6,49,12,23,23,M,73
+2018,5601,Tuscia,Viterbo,42,25,5,12,6,24,F,794
+2018,5601,Tuscia,Viterbo,42,25,5,12,6,24,M,801
+2018,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,F,10508
+2018,5801,Roma La Sapienza,Roma ,41,54,27,12,29,24,M,7238
+2018,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,M,2860
+2018,5802,Roma Tor Vergata,Roma ,41,54,27,12,29,24,F,3079
+2018,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,F,506
+2018,5803,Roma LUMSA,Roma ,41,54,27,12,29,24,M,162
+2018,5805,Roma LUISS,Roma ,41,54,27,12,29,24,F,1205
+2018,5805,Roma LUISS,Roma ,41,54,27,12,29,24,M,1406
+2018,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,F,153
+2018,5806,Roma Foro Italico,Roma ,41,54,27,12,29,24,M,340
+2018,5807,Roma Tre,Roma ,41,54,27,12,29,24,F,3521
+2018,5807,Roma Tre,Roma ,41,54,27,12,29,24,M,2390
+2018,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,F,269
+2018,5808,Roma Biomedico,Roma ,41,54,27,12,29,24,M,171
+2018,5809,Roma UNINT,Roma ,41,54,27,12,29,24,M,92
+2018,5809,Roma UNINT,Roma ,41,54,27,12,29,24,F,435
+2018,5810,Roma Marconi - telematica,Roma ,41,54,27,12,29,24,F,485
+2018,5810,Roma Marconi - telematica,Roma ,41,54,27,12,29,24,M,463
+2018,5811,Roma UNITELMA - telematica,Roma ,41,54,27,12,29,24,F,164
+2018,5811,Roma UNITELMA - telematica,Roma ,41,54,27,12,29,24,M,200
+2018,5812,Roma Europea,Roma ,41,54,27,12,29,24,F,91
+2018,5812,Roma Europea,Roma ,41,54,27,12,29,24,M,81
+2018,5813,Roma UNINETTUNO - telematica,Roma ,41,54,27,12,29,24,M,297
+2018,5813,Roma UNINETTUNO - telematica,Roma ,41,54,27,12,29,24,F,210
+2018,5815,Roma UNICUSANO - telematica,Roma ,41,54,27,12,29,24,M,779
+2018,5815,Roma UNICUSANO - telematica,Roma ,41,54,27,12,29,24,F,558
+2018,5816,Roma San Raffaele - telematica,Roma ,41,54,27,12,29,24,F,276
+2018,5816,Roma San Raffaele - telematica,Roma ,41,54,27,12,29,24,M,293
+2018,5817,Roma Link Campus,Roma ,41,54,27,12,29,24,F,148
+2018,5817,Roma Link Campus,Roma ,41,54,27,12,29,24,M,302
+2018,6001,Cassino,Cassino,41,29,38,13,49,44,F,840
+2018,6001,Cassino,Cassino,41,29,38,13,49,44,M,596
+2018,6201,Sannio,Benevento ,41,7,55,14,46,40,F,509
+2018,6201,Sannio,Benevento ,41,7,55,14,46,40,M,393
+2018,6202,Benevento Giustino Fortunato - telematica,Benevento ,41,7,55,14,46,40,F,108
+2018,6202,Benevento Giustino Fortunato - telematica,Benevento ,41,7,55,14,46,40,M,179
+2018,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,M,5863
+2018,6301,Napoli Federico II,Napoli ,40,51,14,14,15,2,F,7450
+2018,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,F,1011
+2018,6302,Napoli Parthenope,Napoli ,40,51,14,14,15,2,M,1194
+2018,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,F,1464
+2018,6303,Napoli L'Orientale,Napoli ,40,51,14,14,15,2,M,363
+2018,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,F,1532
+2018,6304,Napoli Benincasa,Napoli ,40,51,14,14,15,2,M,210
+2018,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,F,2592
+2018,6306,Napoli Vanvitelli,Napoli ,40,51,14,14,15,2,M,1809
+2018,6307,Napoli Pegaso - telematica,Napoli ,40,51,14,14,15,2,F,2651
+2018,6307,Napoli Pegaso - telematica,Napoli ,40,51,14,14,15,2,M,3834
+2018,6501,Salerno,Salerno,40,40,52,14,45,40,F,3105
+2018,6501,Salerno,Salerno,40,40,52,14,45,40,M,2303
+2018,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,F,1801
+2018,6601,L'Aquila,L'Aquila,42,21,9,13,23,57,M,1213
+2018,6701,Teramo,Teramo,42,39,30,13,42,26,F,544
+2018,6701,Teramo,Teramo,42,39,30,13,42,26,M,377
+2018,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,F,3172
+2018,6901,Chieti e Pescara,Chieti ,42,21,7,14,10,5,M,1591
+2018,6902,Torrevecchia Teatina Leonardo da Vinci - telematica,Roma ,41,54,27,12,29,24,M,3
+2018,6902,Torrevecchia Teatina Leonardo da Vinci - telematica,Roma ,41,54,27,12,29,24,F,9
+2018,7001,Molise,Campobasso,41,33,36,14,39,37,F,600
+2018,7001,Molise,Campobasso,41,33,36,14,39,37,M,410
+2018,7101,Foggia,Foggia,41,27,54,15,32,42,F,994
+2018,7101,Foggia,Foggia,41,27,54,15,32,42,M,630
+2018,7201,Bari,Bari,41,7,45,16,52,11,F,4758
+2018,7201,Bari,Bari,41,7,45,16,52,11,M,2802
+2018,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,F,642
+2018,7202,Bari Politecnico,Bari ,41,7,45,16,52,11,M,1270
+2018,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,F,128
+2018,7203,Casamassima - J.Monnet,Casamassima ,40,57,22,16,55,7,M,209
+2018,7501,Salento,Lecce,40,21,10,18,10,27,F,2064
+2018,7501,Salento,Lecce,40,21,10,18,10,27,M,1070
+2018,7601,Basilicata,Potenza,40,38,20,15,48,12,F,551
+2018,7601,Basilicata,Potenza,40,38,20,15,48,12,M,371
+2018,7801,Calabria,Rende,39,20,0,16,10,56,F,2535
+2018,7801,Calabria,Rende,39,20,0,16,10,56,M,1661
+2018,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,F,875
+2018,7901,Catanzaro,Catanzaro,38,54,22,16,35,35,M,567
+2018,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,F,444
+2018,8001,Reggio Calabria,Reggio Calabria,43,41,1,11,32,10,M,439
+2018,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,M,35
+2018,8003,Reggio Calabria - Dante Alighieri,Reggio Calabria,43,41,1,11,32,10,F,173
+2018,8201,Palermo,Palermo,38,7,0,13,21,43,F,4332
+2018,8201,Palermo,Palermo,38,7,0,13,21,43,M,2718
+2018,8301,Messina,Messina,38,11,36,15,33,14,F,2546
+2018,8301,Messina,Messina,38,11,36,15,33,14,M,1325
+2018,8601,Enna KORE,Enna ,37,34,4,14,16,33,F,712
+2018,8601,Enna KORE,Enna ,37,34,4,14,16,33,M,428
+2018,8701,Catania,Catania,37,30,21,15,5,15,F,3685
+2018,8701,Catania,Catania,37,30,21,15,5,15,M,2475
+2018,9001,Sassari,Sassari,40,43,45,8,33,38,F,1202
+2018,9001,Sassari,Sassari,40,43,45,8,33,38,M,654
+2018,9201,Cagliari,Cagliari,39,13,7,9,7,4,M,1618
+2018,9201,Cagliari,Cagliari,39,13,7,9,7,4,F,2416

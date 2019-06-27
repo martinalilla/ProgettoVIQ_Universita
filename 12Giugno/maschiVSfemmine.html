@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pagina</title>
+  <script src="https://oop.polito.it/js/plotly-latest.min.js"></script>
+  <link rel="stylesheet" href="cssProgetto.css">
+  <link rel="icon" href="Cattura.PNG" />
+</head>
+<body>
+<a href="PaginaPrincipale.html"> Torna alla pagina principale</a>
+<div id="grafico" style="width: 100%; height: 100%"></div>
+<p>Questo grafico mette in evidenza le differenze di genere tra i laureati per ogni singolo ateneo nel 2018. Così come a livello globale il numero di laureate è significativamente più alto del numero di laureati, anche all’interno di ciascun ateneo tale tendenza sembra essere confermata. Dunque, appare chiaro che non esistono atenei prettamente maschili o femminili. Fanno eccezione significativa solamente le scuole politecniche di Bari, Torino e Milano nelle quali il numero di maschi supera nettamente quello delle femmine. Inoltre, le differenze sono tanto più significative quanto più è alto il numero di laureati nell’ateneo. Se infatti possono essere tralasciati i fenomeni legati ad atenei molto piccoli, è evidente che nella quasi totalità dei grandi atenei le femmine siano in prevalenza sui maschi e che quindi si può parlare di un’attitudine allo studio maggiormente sviluppata nelle femmine.
+
+</p>
+<h2>Lavoro svolto</h2>
+<p>La scelta del grafico è ricaduta sul "dot plot" in quanto permette il confronto sulla stessa riga del valore dei laureati maschi e femmine per una determinata università. Per una visualizzazione immediata, un grafico di questo tipo richiede sicuramente un ordine delle università elencate: si è scelto quello alfabetico. In questo modo l'utente, come in un vocabolario, può subito trovare l'università d'interesse.
+  Per fare ciò si è modificato il file csv in modo da avere un ordine alfabetico direttamente nel file sorgente. In realtà è stato necessario poi utilizzare una funzione di reverse() su Javascript in quanto gli array vengono riempiti dalla coda
+  e quindi l'ordine alfabetico risultava inverso.
+</p>
+<footer>
+
+  <p>Per ulteriori informazioni contattare gli sviluppatori di questo sito </p>
+  <ul>
+    <li>Martina Lilla s237626 <a href="mailto:s237626@studenti.polito.it">Scrivi una mail</a></li>
+    <li>Federica Curello s235768 <a href="mailto:s235768@studenti.polito.it">Scrivi una mail</a></li>
+    <li> Giorgio Schembari s235391 <a href="mailto:s235391@studenti.polito.it">Scrivi una mail</a></li>
+  </ul>
+</footer>
+
+
+<script src="maschiVSfemmine.js"></script>
+</body>
+</html>

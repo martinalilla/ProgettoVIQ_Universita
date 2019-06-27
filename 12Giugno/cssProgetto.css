@@ -1,0 +1,93 @@
+body {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: "Eras Bold ITC", Verdana, sans-serif;
+    background-color: aliceblue;
+}
+
+h1  {
+    color: darkblue;
+    font-family: Consolas, "Times New Roman", serif;
+    font-size: 3em;
+
+}
+
+h4{
+    font-family: "Consolas", Verdana, sans-serif;
+    color: #4719e1;
+}
+
+h2 {
+    border-bottom: 0.5pt dotted;
+    color: darkblue;
+    font-family: Consolas, "Times New Roman", serif;
+    font-size: 3em;
+
+}
+
+nav {
+    background-color: skyblue;
+    word-spacing: -0.25em;
+    text-align: center;
+    padding: 1em 2em 1em 2em;
+}
+
+nav a {
+    border-right: darkblue solid 2px  ;
+
+    outline-width: 0;
+    word-spacing: 0.25em;
+    padding: 0 1em 0 1em;
+}
+
+
+
+nav a:hover {
+    background-color: darkblue;
+    color: white;
+    padding: 1em 2em 1em 2em;
+}
+
+
+a {
+    color: darkblue;
+    hover: #46adff;
+    visited: #7918ff;
+
+}
+
+
+header {
+    border-top: 2pt solid skyblue;
+    border-bottom: 2pt solid darkblue;
+    margin-top: 0pt;
+}
+
+footer {
+    color:darkblue;
+    font-family: "Eras Bold ITC", Verdana, sans-serif;
+    font-style: italic;
+    margin-top: 2em;
+    font-size: 70%;
+    line-height: 1.1;
+    background-color: aliceblue;
+    padding: 2pt;
+    border-bottom: 1pt solid darkblue;
+    border-top: 1pt dashed darkblue;
+    display: block;
+    width: 100%;
+    margin-bottom: 0pt;
+}
+
+p{
+    font-family: "Eras Bold ITC", Verdana, sans-serif;
+    color: mediumblue;
+}
+#sceltaAnno, #sceltaSesso{
+    font-family: "Eras Bold ITC", Verdana, sans-serif;
+    color: mediumblue;
+}
+.obiettivi{
+    font-family: "Eras Bold ITC", Verdana, sans-serif;
+    color: mediumblue;
+}

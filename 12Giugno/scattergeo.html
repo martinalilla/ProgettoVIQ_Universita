@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scattergeo</title>
+    <script src="https://oop.polito.it/js/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="cssProgetto.css">
+    <link rel="icon" href="Cattura.PNG" />
+</head>
+<body>
+<script>
+    Plotly.d3.csv('tutti.csv', function(err, rows){
+        function unpack(rows, key) {
+            return rows.map(function(row) { return row[key]; });
+        }
+
+
+        var laureati = unpack(rows, 'LAUREATI');
+       var uni=unpack(rows, 'NOME_ATENEO');
+
+        console.log( unpack(rows, 'LAUREATI'));
+        var dimensione=[];
+        for(var i=0; i<laureati.length; i++){
+            dimensione[i]=laureati[i]/200;
+        }
+        var s=[];
+        for(var j=0; j<laureati.length; j++){
+            s[j]= uni[j]+"- Laureati: "+laureati[j];
+
+        }
+
+
+        var data = [{
+            type: 'scattergeo',
+            mode: 'markers',
+            text: s,
+           lon:unpack(rows, 'LONGITUDINE(DEC)'),
+           lat: unpack(rows, 'LATITUDINE(DEC)'),
+
+
+            marker: {
+                color: unpack(rows, 'LAUREATI'),
+                colorscale: "YlGnBu",
+                cmin: 0,
+                cmax: 18500,
+                reversescale: true,
+                opacity: 0.7,
+                size:  dimensione,
+                colorbar:{
+                    thickness: 10,
+                    titleside: 'right',
+                    outlinecolor: 'rgba(68,68,68,0)',
+                    ticks: 'outside',
+                    ticklen: 3,
+                    shoticksuffix: 'last',
+                    ticksuffix: ' laureati',
+                    dtick: 1000
+                }
+            },
+            name: 'Distribuzione dei laureati nelle varie università italiane'
+        }];
+
+        var layout = {
+            title: "I laureati nelle Università Italiane (anno 2018)",
+        margin: {l: 25, r:10, b: 20, t:30},
+            width:1200, height:1200,
+            geo : { projection: {type:"equirectangular"},
+            showocean: true, oceancolor: "skyblue",
+                showrivers: false,
+                scope:"europe", resolution: "50",
+                lataxis:{range:[35,48]},
+            lonaxis:{range:[6,19]},
+
+        },
+            height: 1000
+
+    }
+
+        Plotly.newPlot('scattergeo', data, layout);
+    });
+</script>
+<a href="PaginaPrincipale.html"> Torna alla pagina principale</a>
+<div id="scattergeo"></div>
+<p>Questa visualizzazione aiuta a comprendere la localizzazione sul territorio degli atenei e il relativo numero di laureati totali per l’anno 2018, fornendo così una visione di insieme sul panorama universitario delle città italiane. Ogni cerchio rappresenta un ateneo e la dimensione è proporzionale al numero di laureati nel 2018.
+    Si evince che il centro-nord ha un più alto numero di laureati rispetto al sud e alle isole. Gli atenei si concentrano nelle città principali e tutti i capoluoghi di regione presentano almeno un ateneo. I numeri più alti di laureati si hanno a Roma e Milano che staccano inoltre le altre città per numero di atenei ospitati. Seguono altre sedi storiche dell’università italiana come Napoli, Bologna e Torino.
+    In generale la distribuzione geografica degli atenei sarebbe tale da coprire abbastanza bene tutto il territorio fornendo dunque un servizio in qualsiasi zona (anche se un’ulteriore analisi in tal senso andrebbe sviluppata tenendo conto delle facoltà specifiche presenti negli atenei). Tuttavia, il numero di laureati, come detto prima, è fortemente sbilanciato verso il centro-nord e questo chiaramente implica il fatto che un fenomeno di mobilità degli studenti, in particolare dal sud verso il nord, è presente sul nostro territorio.
+</p>
+<h2>Lavoro svolto</h2>
+<p>Per la realizzazione di questa mappa, è stato necessario recuperare le informazioni relative a latitudine e longitudine in decimali per ogni città, in quanto richiesti dalla libreria Plotly per localizzare ogni singola università sul territorio italiano.
+Si è scelto di introdurre una scala di colori, anche se lo "scattergeo" di base non la prevede, per enfatizzare la densità di laureati nelle varie zone italiane, creando una corrispondenza percettiva tra il numero di laureati e la tonalità e intensità del colore.
+    Come risaputo e mostrato nel grafico, alcune città ospitano diverse università, perciò per permettere all'utente di distinguerle facilmente, si è anche introdotta una scala per la dimensione dei singoli punti, dividendo ogni singolo numero
+    di laureati per un fattore 200 e aggiungendo anche un'opacità di 0.7 in modo che anche dove le bolle si sovrappongono, è possibile distinguerle l'una dall'altra.
+</p>
+<footer>
+
+    <p>Per ulteriori informazioni contattare gli sviluppatori di questo sito </p>
+    <ul>
+        <li>Martina Lilla s237626 <a href="mailto:s237626@studenti.polito.it">Scrivi una mail</a></li>
+        <li>Federica Curello s235768 <a href="mailto:s235768@studenti.polito.it">Scrivi una mail</a></li>
+        <li> Giorgio Schembari s235391 <a href="mailto:s235391@studenti.polito.it">Scrivi una mail</a></li>
+    </ul>
+</footer>
+</body>
+</html>

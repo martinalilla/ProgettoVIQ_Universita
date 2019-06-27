@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Barre</title>
+    <script src="https://oop.polito.it/js/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="cssProgetto.css">
+    <link rel="icon" href="Cattura.PNG" />
+</head>
+<body>
+<a href="PaginaPrincipale.html"> Torna alla pagina principale</a>
+<script>
+"use strict";
+function analizzaValore()
+{
+    var anno = document.modulo.anno.value;
+    if(anno == "none"){
+        document.getElementById('plot').innerHTML = "";
+        document.getElementById('commento').innerHTML = "";
+        return;
+    }
+    console.log(document.modulo.anno.value);
+    var scelta = document.sesso.scelta.value;
+if(scelta==="t") {
+    Plotly.d3.csv("totaliXanno.csv", function (error, data) {
+        if (error) {
+            console.error(error);
+            document.getElementById("plot").innerHTML = "Cannot load data!";
+            return;
+        }
+
+
+        let laureati = [];
+        let nomeUni = [];
+        data.sort(function (a, b) {
+            return a[anno] - b[anno];
+        });
+        for (let i = 0; i < data.length; i = i + 1) {
+            let row = data[i];
+            nomeUni.push(row.NOME_ATENEO);
+            laureati.push(row[anno]);
+
+
+        }
+
+        var data = [{
+            type: 'bar',
+            x: laureati,
+            y: nomeUni,
+            orientation: 'h',
+            marker: {
+                color: 'rgba(000, 193, 150,0.6)',
+                line: {
+                    color: 'rgba(000, 193, 150,1.0)',
+
+                }
+            },
+        }];
+        let layout = {
+            title: 'Classifica dei laureati complessivi dell\'anno selezionato, per ateneo',
+            xaxis: {
+                showgrid: false,
+                showline: true,
+                linecolor: 'rgb(000, 193, 150)',
+                titlefont: {
+                    font: {
+                        color: 'rgb(204, 204, 204)'
+                    }
+                },
+                tickfont: {
+                    font: {
+                        color: 'rgb(000, 193, 150)',
+                        dtick: 2,
+                        size: 14,
+
+                    }
+                },
+                autotick: true,
+                dtick: 1000,
+
+                ticks: 'outside',
+                tickcolor: 'rgb(000, 193, 150)'
+            },
+            yaxis: {
+                autotick: false,
+                dtick: 1,
+
+            },
+
+            margin: {
+                l: 320,
+                r: 40,
+                b: 50,
+                t: 50
+            },
+            legend: {
+                font: {
+                    size: 10,
+                },
+                yanchor: 'middle',
+                xanchor: 'right'
+            },
+            width: 0,
+            height: 1300,
+            paper_bgcolor: 'rgb(254, 247, 234)',
+            plot_bgcolor: 'rgb(254, 247, 234)',
+            hovermode: 'closest',
+            bargap: 0.3
+        };
+
+        Plotly.newPlot('plot', data, layout);
+    });
+}
+else if(scelta==="m"){
+    Plotly.d3.csv("barreSessi.csv", function (error, data) {
+        if (error) {
+            console.error(error);
+            document.getElementById("plot").innerHTML = "Cannot load data!";
+            return;
+        }
+        console.log(data);
+
+
+
+        data.sort(function (a, b) {
+            return a.LAUREATI - b.LAUREATI;
+        });
+        let laureati = [];
+        let nomeUni = [];
+        for (let i = 0; i < data.length; i = i + 1) {
+            let row = data[i];
+
+            if(row.Sesso==="M" && row.ANNO===anno) {
+                laureati.push(row.LAUREATI);
+                nomeUni.push(row.NOME_ATENEO);
+            }
+
+
+        }
+        console.log(laureati);
+        console.log(nomeUni);
+
+        var data = [{
+            type: 'bar',
+            x: laureati,
+            y: nomeUni,
+            orientation: 'h',
+            marker: {
+                color: 'rgba(40, 108, 230,0.6)',
+                line: {
+                    color: 'rgba(40, 108, 230,1.0)',
+
+                }
+            },
+        }];
+        let layout = {
+            title: 'Classifica dei laureati maschi dell\'anno selezionato, per ateneo',
+            xaxis: {
+                showgrid: false,
+                showline: true,
+                linecolor: 'rgb(102, 102, 102)',
+                titlefont: {
+                    font: {
+                        color: 'rgb(204, 204, 204)'
+                    }
+                },
+                tickfont: {
+                    font: {
+                        color: 'rgb(102, 102, 102)',
+                        dtick: 2,
+                        size: 14,
+
+                    }
+                },
+                autotick: true,
+                dtick: 1000,
+
+                ticks: 'outside',
+                tickcolor: 'rgb(102, 102, 102)'
+            },
+            yaxis: {
+                autotick: false,
+                dtick: 1,
+
+            },
+
+            margin: {
+                l: 320,
+                r: 40,
+                b: 50,
+                t: 50
+            },
+            legend: {
+                font: {
+                    size: 10,
+                },
+                yanchor: 'middle',
+                xanchor: 'right'
+            },
+            width: 0,
+            height: 1300,
+            paper_bgcolor: 'rgb(254, 247, 234)',
+            plot_bgcolor: 'rgb(254, 247, 234)',
+            hovermode: 'closest',
+            bargap: 0.3
+        };
+
+        Plotly.newPlot('plot', data, layout);
+    });
+
+}
+
+else if(scelta==="f"){
+    Plotly.d3.csv("barreSessi.csv", function (error, data) {
+        if (error) {
+            console.error(error);
+            document.getElementById("plot").innerHTML = "Cannot load data!";
+            return;
+        }
+        console.log(data);
+
+
+
+        data.sort(function (a, b) {
+            return a.LAUREATI - b.LAUREATI;
+        });
+        let laureati = [];
+        let nomeUni = [];
+        for (let i = 0; i < data.length; i = i + 1) {
+            let row = data[i];
+
+            if(row.Sesso==="F" && row.ANNO===anno) {
+                laureati.push(row.LAUREATI);
+                nomeUni.push(row.NOME_ATENEO);
+            }
+
+
+        }
+        console.log(laureati);
+        console.log(nomeUni);
+
+        var data = [{
+            type: 'bar',
+            x: laureati,
+            y: nomeUni,
+            orientation: 'h',
+            marker: {
+                color: 'rgba(241, 143, 188,0.6)',
+                line: {
+                    color: 'rgba(241, 143, 188,1.0)',
+
+                }
+            },
+        }];
+        let layout = {
+            title: 'Classifica delle laureate femmine dell\'anno selezionato, per ateneo',
+            xaxis: {
+                showgrid: false,
+                showline: true,
+                linecolor: 'rgb(102, 102, 102)',
+                titlefont: {
+                    font: {
+                        color: 'rgb(241, 143, 188)'
+                    }
+                },
+                tickfont: {
+                    font: {
+                        color: 'rgb(102, 102, 102)',
+                        dtick: 2,
+                        size: 14,
+
+                    }
+                },
+                autotick: true,
+                dtick: 1000,
+
+                ticks: 'outside',
+                tickcolor: 'rgb(102, 102, 102)'
+            },
+            yaxis: {
+                autotick: false,
+                dtick: 1,
+
+            },
+
+            margin: {
+                l: 320,
+                r: 40,
+                b: 50,
+                t: 50
+            },
+            legend: {
+                font: {
+                    size: 10,
+                },
+                yanchor: 'middle',
+                xanchor: 'right'
+            },
+            width: 0,
+            height: 1300,
+            paper_bgcolor: 'rgb(254, 247, 234)',
+            plot_bgcolor: 'rgb(254, 247, 234)',
+            hovermode: 'closest',
+            bargap: 0.3
+        };
+
+        Plotly.newPlot('plot', data, layout);
+    });
+
+}
+
+document.getElementById('commento').innerHTML =('<p> In questo grafico viene stilata una classifica degli atenei in base al numero di laureati per un determinato anno. Un grafico a barre è dunque appropriato allo scopo in quanto permette di confrontare facilmente i dati. Selezionando il genere si nota inoltre che la classifica subisce delle significative variazioni; nel 2018, ad esempio, l’Università di Torino è al terzo posto nella classifica femminile, mentre scende al settimo posto nella classifica maschile. Si nota invece una tendenza inversa per il Politecnico che potrebbe essere dunque correlata. Gli atenei con il maggior numero di laureati sono le grandi istituzioni delle principali città; stabilmente in testa si conferma “La Sapienza” di Roma, ateneo che comprende un gran numero di facoltà </p>');
+    document.getElementById('commento').innerHTML+= ('<h2>Lavoro svolto</h2> ');
+
+    document.getElementById('commento').innerHTML+= ('<p>L\'uso del form nella pagina html è finalizzato a permettere all\'utente di visualizzare la classifica di suo interesse. Questo per evitare di inserire molteplici grafici in una stessa pagina ' +
+        'e di conseguenza costringere l\' utente a doverla scorrere ripetutamente. La scelta di inserire un men&ugrave a tendina anche per selezionare, eventualmente, il genere, è stata inserita in quanto la classifica può cambiare notevolmente ' +
+        ' in relazione ad esso. Trattandosi di una classifica, è sicuramente più appropriato ordinare le università in base al numero di laureati, piuttosto che alfabeticamente. Per raggiungere questo scopo, attraverso una funzione di sort sul Javascript,' +
+        'l\'ordinamento è stato applicato direttamente sui dati per non perdere la corrispondenza tra università e numero dei suoi laureati, cosa che sarebbe successa con un sort sugli array. </p>')
+}
+
+
+</script>
+<div id="sceltaAnno"> Seleziona l'anno di cui vuoi conoscere le statistiche
+<form method='GET' name='modulo' action="#" >
+
+    <select name='anno' onchange='analizzaValore();'>
+        <option value="none">Seleziona</option>
+        <option value='1999'>1999</option>
+        <option value='2000'>2000</option>
+        <option value='2001'>2001</option>
+        <option value='2002'>2002</option>
+        <option value='2003'>2003</option>
+        <option value='2004'>2004</option>
+        <option value='2005'>2005</option>
+        <option value='2006'>2006</option>
+        <option value='2007'>2007</option>
+        <option value='2008'>2008</option>
+        <option value='2009'>2009</option>
+        <option value='2010'>2010</option>
+        <option value='2011'>2011</option>
+        <option value='2012'>2012</option>
+        <option value='2013'>2013</option>
+        <option value='2014'>2014</option>
+        <option value='2015'>2015</option>
+        <option value='2016'>2016</option>
+        <option value='2017'>2017</option>
+        <option value='2018'>2018</option>
+
+    </select>
+
+</form>
+</div>
+<div id="sceltaSesso"> Puoi selezionare anche il genere
+    <form method='GET' name='sesso' action="#" >
+
+        <select name='scelta' onchange='analizzaValore();'>
+            <option value='t' selected="selected">Totale</option>
+            <option value='m'>Maschi</option>
+            <option value='f'>Femmine</option>
+        </select>
+
+    </form>
+</div>
+    <div id="plot" style="width: 100%; height: 100%"></div>
+<div id="commento" ></div>
+
+<footer>
+
+    <p>Per ulteriori informazioni contattare gli sviluppatori di questo sito </p>
+    <ul>
+        <li>Martina Lilla s237626 <a href="mailto:s237626@studenti.polito.it">Scrivi una mail</a></li>
+        <li>Federica Curello s235768 <a href="mailto:s235768@studenti.polito.it">Scrivi una mail</a></li>
+        <li> Giorgio Schembari s235391 <a href="mailto:s235391@studenti.polito.it">Scrivi una mail</a></li>
+    </ul>
+</footer>
+
+</body>
+</html>

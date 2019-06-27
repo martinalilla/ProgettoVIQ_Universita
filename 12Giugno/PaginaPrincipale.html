@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> Laureati-Italiani</title>
+
+ <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  <link rel="stylesheet" href="cssProgetto.css">
+  <link rel="icon" href="Cattura.PNG" />
+
+</head>
+<body>
+<header>
+<h1> Laureati-Italiani.it</h1>
+<h4>Benvenuto! In questa pagina potrai visualizzare i dati relativi al numero di laureati nei diversi Atenei italiani negli ultimi 20 anni </h4>
+</header>
+   <nav>
+
+       <a href="scattergeo.html"> Mappa: le Università Italiane</a>
+       <a href="andamento.html"> Evoluzione: gli ultimi 20 anni</a>
+       <a href="maschiVSfemmine.html"> Maschi contro femmine: confronto </a>
+       <a href="PaginaBarre.html">Laureati: classifica per anno </a>
+
+   </nav>
+
+<h1> Benvenuto!</h1>
+<img src="laurea.jpg" width="30%">
+
+   <p> In questo sito potrai conoscere alcune statistiche relative ai laureati delle Università Italiane. </p>
+<p>
+    Lo studio è volto a comprendere alcuni fenomeni riguardanti l’evoluzione del numero di laureati nei diversi atenei Italiani, nel periodo compreso tra il 1999 ed il 2018. La fonte dei dati analizzati è  <a href="http://dati.ustat.miur.it/dataset/laureati-2018/resource/997ef9f1-5b86-4f89-b1f6-bf16a2344aba">l’archivio informatico del MIUR </a>
+    e le informazioni comprendono circa novanta atenei, sia privati che pubblici. Con ateneo si intende una singola istituzione universitaria, indipendentemente dal numero di facoltà (o dipartimenti) in essa presenti. L’analisi dunque non distingue tra indirizzi di studio, ma è piuttosto volta ad una visione di insieme sul panorama dell’università italiana.
+    I dati utilizzati comprendono, oltre all’indicazione identificativa dell’ateneo, la sua collocazione geografica (città e relative coordinate) ed infine il numero di laureati per genere per un determinato anno.
+
+</p>
+<p>
+    Il numero di atenei non risulta costante nel corso degli anni in conseguenza del fatto che i dati relativi ad alcune università compaiono solo da un certo anno in avanti. Le università telematiche, ad esempio, sono assenti nei primi anni considerati in quanto la loro diffusione comincia nei primi anni duemila ed il loro riconoscimento ufficiale è ancor più recente.
+    È importante sottolineare il fatto che il numero di laureati non riflette esattamente la grandezza dell’ateneo e il numero di iscritti.
+
+</p>
+<h2> Obiettivi:</h2>
+<p>Gli obiettivi principali dello studio possono essere riassunti nei seguenti punti:
+    <ul class="obiettivi">
+    <li>Comprendere se il numero di laureati è aumentato negli ultimi venti anni e se ci sono state alcune tendenze particolari o picchi. Analizzare inoltre le differenze tra i due generi nel tempo. Per vedere il grafico corrispondete <a href="andamento.html"> Clicca qui</a> </li>
+
+    <li>Osservare la distribuzione sul territorio degli atenei e capire quindi quali città ospitano il maggior numero di laureati. Per vedere il grafico corrispondete <a href="scattergeo.html"> Clicca qui</a> </li>
+
+    <li>	Stilare una classifica annuale degli atenei in base al numero di laureati. Per vedere il grafico corrispondete <a href="PaginaBarre.html"> Clicca qui</a></li>
+
+    <li>Osservare le differenze tra il numero dei laureati maschi e femmine per ogni ateneo. Per vedere il grafico corrispondete <a href="maschiVSfemmine.html.html"> Clicca qui</a></li>
+</ul>
+</p>
+<h2>Storia del progetto</h2>
+<p>Questo progetto nasce dall'idea di tre ingegneri gestionali del Politecnico di Torino, che, prossimi alla laurea, hanno cercato un confronto con i loro colleghi delle diverse università italiane. </p>
+<p>Il primo step è stato ovviamente quello di reperire dei dati attendibili, per cui la scelta è immediatamente ricaduta sul sito del Miur. In realtà, i dati non erano perfettamente ben organizzati agli scopi, per cui gli sviluppatori si sono preoccupati di riadattarli alle loro esigenze.
+In particolare, innanzitutto alcune informazioni contenute nei dataset erano irrilevanti per lo studio (come ad esempio il codice relativo ad ogni ateneo, la tipologia di ateneo e di didattica), pertanto questi sono stati scartati. Inoltre, le righe delle tabelle utilizzate riportavano le informazioni dei laureati per genere, informazione sicuramente indispensabile, ma per alcune
+valutazioni vi è stata la necessità di avere anche l'informazione dei laureati totali, indipendentemente dal genere, dato non presente nel dataset di partenza. Per cui la soluzione è stata, in alcuni casi, partendo già dal csv, ricavare l'informazione
+tramite le funzioni di Excel, in altri sommare i valori contenuti negli array direttamente in Javascript. In un caso particolare, i tre studenti si sono ritrovati di fronte al seguente problema: il dataset seguiva un particolare "pattern",
+ovvero, ogni singola università veniva ripetuta in due righe successive (una volta per i maschi, una per le femmine), ma non veniva rispettato un ordine ben preciso di sequenza M-F piuttosto che F-M, per cui vi è stata l'esigenza di estrapolare
+questo tipo di informazione attraverso una funzione Javascript, che usasse un ciclo for e dei costrutti "if-else" per assicurarsi che i dati venissero inseriti all'interno degli array corretti (maschiVSfemmine.js). </p>
+<p>Successivamente, si è deciso di rispondere agli obiettivi sopra delineati, progettando una visualizzazione adatta al tipo di analisi che i tre ragazzi si sono proposti di fare, scegliendo opportuni grafici interattivi, che permettessero all'
+    utente di percepire in maniera semplice e immediata i risultati più rilevanti. Per fare ciò, la libreria più adatta è sicuramente <a href="https://plot.ly/">Plotly</a>, un servizio per la creazione e la condivisione di "data visualization", che offre anche uno strumento per
+svolgere analisi statistiche.</p>
+<p>Il lavoro appena descritto e la successiva analisi svolta, ha permesso di giungere a determinate conclusioni. Cosa aspetti? Naviga nel nostro sito per conoscerle!</p>
+<footer>
+
+<p>Per ulteriori informazioni contattare gli sviluppatori di questo sito </p>
+<ul>
+<li>Martina Lilla s237626 <a href="mailto:s237626@studenti.polito.it">Scrivi una mail</a></li>
+<li>Federica Curello s235768 <a href="mailto:s235768@studenti.polito.it">Scrivi una mail</a></li>
+<li> Giorgio Schembari s235391 <a href="mailto:s235391@studenti.polito.it">Scrivi una mail</a></li>
+</ul>
+</footer>
+</body>
+</html>
